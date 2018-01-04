@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="merelo.com.cerveceame" >
+
+
+    <uses-feature android:name="android.hardware.camera" android:required="true" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:name="merelo.com.cerveceame.ServicioWeb"
+        android:allowBackup="true"
+        android:icon="@mipmap/icono"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/CustomTheme">
+        <activity android:name=".MainActivity"
+            android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".ConsultaActivity"
+            android:screenOrientation="portrait"/>
+        <activity android:name=".AnadirActivity"
+            android:screenOrientation="portrait"/>
+        <activity android:name=".DetalleActivity"
+            android:screenOrientation="portrait"/>
+        <activity android:name=".FiltroActivity"
+            android:screenOrientation="portrait"/>
+        <activity android:name=".MasConsultadasActivity"
+            android:screenOrientation="portrait"/>
+        <activity android:name=".FavoritasActivity"
+            android:screenOrientation="portrait"/>
+        <activity android:name=".EstadisticasActivity"
+            android:screenOrientation="portrait"/>
+        <activity android:name=".QuienSoyActivity"
+            android:screenOrientation="portrait"/>
+        <activity android:name=".copiarActivity"
+            android:screenOrientation="portrait"/>
+        <activity android:name=".AnadirPlantillaActivity"
+            android:screenOrientation="portrait"/>
+    </application>
+
+</manifest>

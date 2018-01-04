@@ -1,0 +1,602 @@
+1|cruzcampo_cruzial|Cruzcampo|Cruzial|Pilsen|Una cerveza elegante de color dorado con reflejos ámbar y una bonita corona de espuma de color blanco roto. En nariz podemos apreciar los matices que aporta el lúpulo 100% seleccionado: aromas frutales a manzana, flores silvestres y balsámicos a salvia y lavanda. En boca destaca la esencia tan característica de Cruzcampo, sabor equilibrado de dulce de malta y amargor suave, muy refrescante y con gran persistencia. 5,9%|0|0|España|0|0
+2|cruzcampo_fresca|Cruzcampo|Fresca|Pilsen|Es una magnífica cerveza de color dorado brillante con una espuma blanca de consistencia media. El sabor es redondo, presenta aromas frutales a manzana madura que destacan sobre su sabor balanceado de dulce de malta y amargor suave, con un refrescante paso en boca ideal para calmar la sed. 4,8%|0|0|España|0|0
+3|cruzcampo_radler|Cruzcampo|Radler|Radler|Es una mezcla de cerveza Lager Pielsen Cruzcampo con zumo natural de limón dando como resultado una cerveza turbia con espuma fina, con color blanquecino pálido y aroma intenso de flores cítricas. Su sabor es ligeramente ácido y en boca presenta un cuerpo ligero, dejando un regusto a cerveza con final ligeramente ácido y muy refrescante. 2,2%|0|0|España|0|0
+4|cruzcampo_sin|Cruzcampo|Sin|Sin Alcohol|Cerveza de color dorado con reflejos brillantes y espuma blanca y consistente. Persiste en el servicio y presenta aromas a cereales malteados. Tiene un sabor ligero bien balanceado, de dulce de pan con amargos suaves del lúpulo. Es una cerveza de cuerpo ligero con regusto suave amargo, refrescante. 0,9%|0|0|España|0|0
+5|cruzcampo_normal|Cruzcampo|Pilsen|Pilsen|Su ligero aroma frutal a manzana madura destaca sobre su sabor balanceado de dulce de malta y amargor suave. Su paso de boca es de una cerveza con cuerpo ligero y un final amargo refrescante ideal para calmar la sed. 4,8%|0|0|España|0|0
+6|cruzcampo_shandy|Cruzcampo|Shandy|Pilsen|Es una bebida de color dorado brillante y espuma blanca poco persistente en el servicio. Presenta aromas cítricos que destacan sobre su amargor suave y su sabor dulce de limón fresco, con un excelente paso de boca. De cuerpo ligero, deja un regusto amargo muy refrescante. Debe tomarse muy fría y en vaso grande, ya que admite hielo en su servicio. 0,9%|0|0|España|0|0
+7|cruzcampo_granreserva|Cruzcampo|Gran Reserva|Lager|Al servir la cerveza en la copa observamos su atractivo color ambar brillante y la calidad y cremosidad de su espuma. En nariz, descubrimos notas tostadas y de levaduras, junto con notas de frutos secos y frutas cítricas. Con el paso del tiempo, los tostados pasan a especiados y regaliz. En boca, su entrada es agradable gracias a su bajo nivel de carbónico y rápidamente aparecen las notas de fruto seco con cierta dulzor y recuerdos de cacahuetes con miel junto con notas frescas y especiadas. El final es levemente amargo y es largo y agradable. 6,4%|0|0|España|0|0
+8|cruzcampo_cruz|Cruzcampo|Cruz del Sur|Lager|Cerveza de baja gama. Poco sabor. 4,5%|0|0|España|0|0
+9|cruzcampo_light|Cruzcampo|Light|Pilsen|Light con aroma frutal y sabor balanceado de malta y suave amargor. 2,4%|0|0|España|0|1
+10|estrella_galicia_especial|Estrella Galicia|Especial|Pilsen|Cerveza de color dorado brillante que parte de una selección de maltas y lúpulo especialmente amargos. Ello hace que esta cerveza tenga un agradable y característico sabor lupulado Aroma: Gratos, refrescantes, donde destacan los tonos especiados. 5,5%|0|0|España|0|1
+11|estrella_galicia_cerocero|Estrella Galicia|0,0|Sin Alcohol|De color amarillo dorado intenso, dotada de aromas muy frescos, piel de cítricos. En boca se presenta con un punto de amargor punzante y resistente, lo que le da a esta cerveza un matiz muy seco. 0,0|0|0|España|0|1
+12|estrella_galicia_shandy|Estrella Galicia|Shandy|Lager|Equilibrada entre el carácter refrescante de una clara con la característica híbrida de sabores a cerveza y un toque de limón entre ácido y dulce potenciando el bouquet (sabor amargo y aroma) del lúpulo. Muy refrescante y suave, cremosa al paladeo y mantenido regusto. 0,9%|0|0|España|0|1
+13|estrella_galicia_sgluten|Estrella Galicia|Sin Gluten|Lager|De color dorado brillante, con aromas gratos, refrescantes, donde destacan los tonos especiados. En boca se presenta neutra y ligera, con un matiz muy marcado de sabor a lúpulo. 5,5%|0|0|España|0|1
+14|estrella_galicia_pilsen|Estrella Galicia|Pilsen|Pilsen|Es más suave y de cuerpo más ligero que Estrella Galicia Especial, aunque mantiene su sabor amargo tradicional. Se podría definir como una cerveza muy refrescante y muy fácil de beber. 4,7%|0|0|España|0|1
+15|eg1906_especial|1906|Reserva Especial|Lager|De bonito color ámbar oscuro. Limpia y brillante, y de abundante espuma espesa y cremosa que se mantiene durante todo el consumo. En boca se presenta espesa, densa, elegante y redonda, presenta un punto de amargor elegante que se funde en boca. Postgusto largo y agradable. 6,5%|0|0|España|0|1
+16|eg1906_redvintage|1906|Red Vintage|Red Ale|Cerveza intensa y equilibrada, se caracteriza por su aroma a malta tostada y espuma cremosa y compacta con burbuja fina. Posee un marcado amargo final, que balancea su alto contenido alcohólico, que hace que el conjunto sea agradable de beber en cualquier momento. 8,0%|0|0|España|0|1
+17|eg1906_blackcoupage|1906|Black Coupage|Schwarzbier (Negra)|Aroma a malta límpido y con trazas de tofe y sutil lúpulo floral proveniente de la variedad aromática Sladek y una buena base de amargor del Nugget. Apariencia totalmente negra y espuma voluminosa, persistente, de tonos café claro. En boca presenta suaves notas de chocolate, café y regaliz, sin asperezas o astringencias, a pesar del uso de maltas tostadas y oscuras. Buen cuerpo y retrogusto de las maltas que tienden a perdurar en boca después del trago.|0|0|España|0|1
+18|alhambra_tradicional|Alhambra|Premium Lager|Lager|Sabor ligero, espuma consistente y moderada graduación. Color dorado y baja fermentación. Cerveza con malta de cebada de primera calidad, toques refrescantes y un lúpulo que le confiere de un sabor amargo seco y aromático perfectamente equilibrado. 4,6%|0|0|España|0|2
+19|alhambra_reserva|Alhambra|Reserva 1925|Lager|Espuma consistente, de textura esponjosa. Color ámbar dorado y aromas ligeramente tostados. Con cuerpo, sabor redondo, constante y agradable. Balance amargo / dulce perfectamente equilibrado, con notas que van desde la naranja amarga hasta un final ligeramente caramelizado. 6,4%|0|0|España|0|2
+20|alhambra_especial|Alhambra|Especial|Lager|Cerveza de baja fermentación, con cuerpo, plena de sabor y suave al paladar. Color muy característico brillante dorado. Intenso aroma inicial a malta y a lúpulo, amargo pero refrescante; con una transición suave y un sabor estimulantemente lupulizado, que permanece en la lengua pero que se diluye suavemente sin llegar a la garganta. Cerveza de alta calidad para hacer de cada día algo especial. 5,4%|0|0|España|0|2
+21|alhambra_sin|Alhambra|Sin|Sin Alcohol|Cerveza sin alcohol, con sabor ligero, y espuma con textura consistente. Su proceso de elaboración exclusivo, sus materias primas 100% naturales y su sabor, le dotan de un sabor refrescante con un amargor suave y sabores ligeramente afrutados, que se confunden con los de una cerveza con alcohol y que dejan un amplio retrogusto en el paladar. <1%|0|0|España|0|2
+22|alhambra_negra|Alhambra|Negra|Schwarzbier (Negra)|Cerveza con color rojizo muy oscuro y espuma esponjosa con toques cremosos. Sabor profundo con multitud de aromas que abarcan desde el regaliz hasta el café, terminando en un sabor que recuerda al caramelo de melaza. 5,4%|0|0|España|0|2
+23|alhambra_mezquita|Alhambra|Mezquita|Red Ale|Cerveza roja de abadía de la más alta gama elaborada en Córdoba, ideal para tomar en invierno, aunque perfecta para tomar como “trago largo” en verano. Color rojizo similar al del cobre antiguo. Sabor muy intenso, complejo y característico; seco terroso con un ligero toque ahumado, prolongado y con final cálido y amplio. Ideal para amantes de la cerveza de alta calidad. 7,2%|0|0|España|0|2
+24|surena_pilsen|Sureña|Pilsen|Pilsen|Cerveza muy suave, muy fresca. Ideal para consumirla en cualquier ocasión. 4,6%|0|0|España|0|2
+25|alhambra_shandy|Alhambra|Shandy|Pilsen|Cerveza con sabor limón, sabor ligero, y muy refrescante. Color dorado brillante con ligeros tonos rojizos que recuerda a una cerveza tipo pilsen. Espuma de gran consistencia y textura suave. Sabor muy cercano al de la cerveza suave, con tonos dulces, afrutados y con aromas cítricos a cáscara de limón y jengibre. 0,9%|0|0|España|0|2
+26|dorada_especial|Dorada|Especial|Lager|Tiene un aroma y sabor suave, así como un agradable color dorado. Balanceada en su frescura del lúpulo, fácilmente bebible y muy refrescante. 5,5%|0|0|España|0|2
+27|dorada_especialroja|Dorada|Especial Roja|Lager|Dos tipos de malta tostada, en una mayor concentración, confieren su particular color rojizo. Esta receta, junto al mayor contenido de alcohol, da como resultado una cerveza balanceada con un sabor más prolongado. Una cerveza con carácter que combina a la perfección con platos de intensos sabores. 6,5%|0|0|España|0|2
+28|dorada_pilsen|Dorada|Pilsen|Pilsen|Cerveza tipo Pilsen, elaborada con métodos tradicionales y los mejores ingredientes naturales, 100% malta.Tiene un aroma y sabor suave, así como un agradable color dorado. Balanceada en su frescura del lúpulo, fácilmente bebible y muy refrescante. Recomendable para tomarla sola o acompañada con cualquier comida. 4,7%|0|0|España|0|2
+29|dorada_sin|Dorada|Sin|Sin Alcohol|Única por su proceso de elaboración con fermentación controlada que le confiere el sabor, color y espuma de una auténtica cerveza con aroma de malta y lúpulo. 0,9%|0|0|España|0|2
+30|dorada_sinlimon|Dorada|Sin con Limón|Sin Alcohol|Cerveza sin alcohol producida en las Islas canarias a la que se le añade limón natural.|0|0|España|0|2
+31|tropical_pilsen|Tropical|Pilsen|Pilsen|En la nariz suave a lúpulo, agradable amargor y posamargor, refrescante y bien equilibrada en su cuerpo. 4,7%|0|0|España|0|2
+32|tropical_limon|Tropical|Limón|Radler|Variedad de cerveza que se caracteriza por un bajo índice de contenido alcohólico y por incorporar limón natural. 2%|0|0|España|0|2
+33|tropical_bandido|Tropical|Bandido|Con tequila|Una cerveza para los que disfrutan al máximo de la fiesta, con un toque a tequila y un grado más que tu pilsen de siempre. 5,9%|0|0|España|0|2
+34|tropical_premium|Tropical|Premium|Pilsen|Cerveza Lager con cuerpo y un delicado carácter lupulado. Mezcla equilibrada de sabores pronunciados a malta y ésteres. 4,7%|0|0|España|0|2
+35|moritz_blat|Moritz|Blat|Weizenbier (Trigo)|La MORITZ BLAT es una cerveza muy turbia que se sirve sin filtrar y sin pasteurizar. Densa y refrescante a la vez, es una propuesta única, ideal para el verano. Una espuma densa, generosa y adherente atrapa intensas notas frutales de las levaduras (banana madura) y especiadas (clavo, anís estrellado) que se enredan con los aromas florales del lúpulo de Saaz. 5,8%|0|0|España|0|2
+36|moritz_aigua|Moritz|Aigua de Moritz|Sin Alcohol|Perfumada mediante la extracción en frío del aroma de la flor de lúpulo de Saaz, Aigua de Moritz se convierte en auténtico perfume y esencia de cerveza. 0%|0|0|España|0|2
+37|moritz_lager|Moritz|Lager|Lager|Moritz es una cerveza braceada con maltas pálidas, agua de Font d’Or (Montseny-Guilleries) y perfumada con una infusión de flores de lúpulo aromático de Saaz. 5,4%|0|0|España|0|2
+38|moritz_1714|Moritz|17.14|Lager|Lager aromatizada con una mezcla de miel y jengibre y notas de bergamota y cardamomo. Un viaje a los aromas del pasado. 7,1%|0|0|España|0|2
+39|moritz_epidor|Moritz|Epidor|Lager|Cerveza braceada con un extraordinario ingrediente que le confiere un cuerpo compacto y un color único: la Malta Caramelo. Malta, agua del Montseny, lúpulo aromático y un proceso de fermentación de larga duración son los ingredientes que dan potencia a la cerveza con más fuerza de todas las Moritz. 7,2%|0|0|España|0|2
+40|heineken_lager|Heineken|Lager Beer|Lager|color amarillo claro y brillante, con una espuma blanca intensa, cremosa y persistente en el vaso. Su aroma frutal a plátano, procedente de su fermentación lenta a baja temperatura, perdura hasta el consumo final mezclándose con el ligero sabor dulce de la malta pilsen y su amargor suave. Es una cerveza seca de cuerpo ligero con buen paso de boca, que proporciona un final amargo muy fresco y nada astringente. 5%|0|0|Países Bajos|0|2
+41|heineken_oudbruin|Heineken|Oud Bruin|Old Brown|De color marrón oscuro y sabor dulce, a caramelo, con matices de naranja. 2,5%|0|0|Países Bajos|0|2
+42|heineken_premiumlight|Heineken|Premium Light|Lager|Elaborado con la misma calidad que la Heineken original pero con un sabor más suave y menos calorías. 3,2%|0|0|Países Bajos|0|2
+43|heineken_tarwebok|Heineken|Tarwebok|Bock|Elaborada originalmente en otoño, esta aromática cerveza, tiene un sabor marcado, con mucho cuerpo y con una ligera picantez. 6,5%|0|0|Países Bajos|0|2
+44|amstel_100malta|Amstel|Lager|Lager|Color dorado con una espuma ligera, aroma a malta. 4,7%|0|0|Países Bajos|0|2
+45|amstel_cerocero|Amstel|0,0|Sin Alcohol|Elaborada mediante un proceso natural de evaporación lenta del alcohol, que potencia los sabores y permite palpar la esencia de su malta de cebada, manteniendo su carácter refrescante y natural. 0,0%|0|0|Países Bajos|0|2
+46|amstel_oro|Amstel|Oro|Lager|Color ámbar profundo, delicado aroma a malta, sabor tostado. 6,4%|0|0|Países Bajos|0|2
+47|amstel_extra|Amstel|Extra|Lager|Color dorado claro, aroma de lúpulo y malta. Ligero sabor a caramelo y flores. 7,5%|0|0|Países Bajos|0|2
+48|amstel_radler|Amstel|Radler|Radler|Amstel Radler te ofrece una fusión única entre el gran sabor de la cerveza Amstel, mezclada con zumo de limón natural. 2%|0|0|Países Bajos|0|2
+49|amstel_clasica|Amstel|Clasica|Lager|Una lager elaborada de acuerdo al método holandés, cuyo cuerpo ligero es ideal para compartir con todos tus amigos en tus barbacoas y planes con buen tiempo. 4,8%|0|0|Países Bajos|0|2
+50|amstel_1870|Amstel|1870|Pilsen|Color dorado claro. Aroma a granos dulces, manzana y maíz. Sabor a fina malta y ligeramente a manzana. 4,7%|0|0|Países Bajos|0|2
+51|amstel_bock|Amstel|Bock|Bock|Claro ámbar rojizo con espuma color bronce poco persistente. Sabor a malta, caramelo, nueces, café, con un final amargo. 7%|0|0|Países Bajos|0|2
+52|buckler_cerocero|Buckler|0,0|Sin Alcohol|Cerveza “SIN” tipo lager con un contenido alcohólico de 0.0% vol. Suave, refrescante, de cuerpo ligero, color dorado con reflejos brillantes, espuma blanca consistente y ligeramente amarga, conservando todo el sabor y aroma cerveceros. 0,0%|0|0|Países Bajos|0|2
+53|buckler_radler|Buckler|0,0 Radler|Sin Alcohol|Mezcla equilibrada de cerveza sin alcohol Buckler 0.0 con zumos naturales con un contenido alcohólico de 0.0% en volumen. El resultado es una bebida muy refrescante, con sabor agradable, sabores cítricos, dulzor equilibrado y fácil de beber. De apariencia turbia y espuma blanca, pueden observarse depósitos que se resuspenden al agitar y no representan ninguna deficiencia del producto. 0,0%|0|0|Países Bajos|0|2
+54|buckler_negra|Buckler|0,0 Negra|Sin Alcohol|Cerveza negra sin alcohol, con un contenido alcohólico de 0,0 % vol. Suave, refrescante, de cuerpo ligero a medio, color negro con tonalidades marrones y espuma dorada consistente. Presenta aromas suaves de café natural, caramelo toffee y un ligero regusto a regaliz. 0,0%|0|0|Países Bajos|0|2
+55|buckler_blanca|Buckler|0,0 Blanca|Sin Alcohol|Cerveza sin alcohol, con un contenido alcohólico de 0.0% vol. Suave, refrescante, de cuerpo ligero, turbia y espuma blanca clara y consistente. Presenta aroma a especias y sabor ligeramente ácido que la hace muy bebible. Con regusto final un poco amargo muy refrescante. 0,0%|0|0|Países Bajos|0|2
+56|kaliber_sin|Kaliber|Sin|Sin Alcohol|Suave y ligeramente amarga. <1%|0|0|Irlanda|0|2
+57|kaliber_cerocero|Kaliber|0,0|Sin Alcohol|Cerveza cremosa de blanca espuma. Caramelo en la nariz. Ligeramente seco, grano tostado. Regusto dulce. 0,0%|0|0|Irlanda|0|2
+58|falke|Falke|0,0|Sin Alcohol|Marca y cerveza creada por heineken para la cadena de supermercados Mercadona. 0,0%|0|0|España|0|2
+59|legadodeyuste|Legado de Yuste||Abadía|De color bronce, con espuma ligeramente tostada y un agradable aroma a caramelo. Al saborearla disfrutamos de un suave comienzo, cuerpo redondo, carácter afrutado con un toque de dulzor, para dar lugar al final a un sorprendente gusto seco. 6,5%|0|0|España|0|2
+60|carlsberg_lager|Carlsberg||Lager|Bien proporcionada, con sabor a lúpulo, grano de trigo, pino, acedera y manzanas de verano danesas. El amargor del lúpulo y el dulzor de manzana proporcionan un sabor equilibrado. Refrescante y suave. 5%|0|0|Dinamarca|0|2
+61|carlsberg_elephant|Carlsberg|Elephant|Pilsen|Alto contenido en malta y lúpulo, dándole un sabor marcadamente amargo. 7,2%|0|0|Dinamarca|0|2
+62|carlsberg_cerocero|Carlsberg|0,0|Sin Alcohol|Conserva el sabor fuerte y natural de la cerveza original. 0,0%|0|0|Dinamarca|0|2
+63|carlsberg_47|Carlsberg|47|Bock|Color ámbar y cremosa espuma. Aroma metálico y dulce. El dulce y amargo se mezclan en su sabor. 7%|0|0|Dinamarca|0|2
+64|carlsberg_blackcurrant|Carlsberg|Blackcurrant|Lager|Color dorado. Aroma y sabor a grosella negra. 2,8%|0|0|Dinamarca|0|2
+65|carnegie_porter|Carnegie|Porter (Tostada)|Porter|Cerveza negra que posee tonos tostados de chocolate, con un elevado amargor. De sabor fuerte e intenso, equilibrado y suavizado por cierto grado de dulzor. Está cerveza mejora con el tiempo. 5,5%|0|0|Suecia|0|3
+66|mahou_5estrellas|Mahou|5 estrellas|Pilsen|Las mejores variedades de lúpulo y levadura se concentran en Mahou Cinco Estrellas. Una cerveza dorada, de espuma cremosa y consistente, con un sabor característico, moderado y fino, de aroma afrutado. 5,5%|0|0|España|0|3
+67|mahou_singluten|Mahou|Sin gluten 5 estrellas|Pilsen|Utilizando las mejores variedades de lúpulo y levadura se obtiene esta cerveza dorada, cremosa, con un aroma afrutado y apta para celiacos. 5,4%|0|0|España|0|3
+68|mahou_limon|Mahou|Limón|Radler|De color dorado, con espuma de aspecto cremoso y consistente, con aromas cítricos y un fondo a cereal llega la Clara de Mahou, una cerveza de cuerpo ligero, con notas dulces y un suave amargor que aportan una sensación muy refrescante. 3,2%|0|0|España|0|3
+69|mahou_clasica|Mahou|Clásica|Lager|De color dorado, aspecto brillante y cuerpo moderado, destaca por su sabor suave y buen equilibrio en boca. Su aroma es ligero afrutado, con tonos florales de lúpulo. 4,8%|0|0|España|0|3
+70|mahou_sin|Mahou|Sin|Sin Alcohol|Mahou Sin se caracteriza por ser una bebida agradable, refrescante y con un amargor suave que perdura en el gusto. Con un amarillo dorado de aspecto muy brillante, presenta sutiles notas tostadas, con fondos limpios de cereales. A la entrada es suave, en el paso de boca limpia el paladar y resulta equilibrada y elegantemente amarga al final. 0,9%|0|0|España|0|3
+71|mahou_negra|Mahou|Negra|Münchner Dunkel|De color negro café, cuerpo intenso y leve astringencia, la Mahou Negra se caracteriza por unas intensas notas a cereal tostado con ligero fondo floral. Su amargor suave y toques caramelizados a regaliz la hacen inconfundible. 5,5%|0|0|España|0|3
+72|mahou_light|Mahou|Premium light|Lager|Una light de espuma ligera pero persistente. Su aroma ligeramente afrutado contiene notas florales de lúpulo y un amargor suave y bajo. 3,5%|0|0|España|0|3
+73|mahou_maestra|Mahou|Maestra|Porter (Tostada)|Un sabor único conferido por la destreza en la combinación de las variedades de lúpulos incorporados en dos momentos: lúpulos amargos, que aportan un amargor suave y ligero, y lúpulos aromáticos, que suman notas cítricas y florales. 7,5%|0|0|España|0|3
+74|mahou_mixtalimon|Mahou|Mixta Limón|Radler|Destaca su sensación dulce y refrescante con fondo sutilmente amargo. De cuerpo ligero, Mixta tiene un aroma intensamente afrutado con fuertes notas cítricas. 0,9%|0|0|España|0|3
+75|mahou_mixtarevoluxion|Mahou|Mixta Revoluxion|Otro|Cerveza con ron añejo, menta y guaraná. 6,3%|0|0|España|0|3
+76|reina_oro|Reina|Oro|Pale Ale|Lager con cuerpo y de color amarillo oro. De sabor suave pero lleno de matices, con toques dulces que, a su vez, dejan un ligero amargor en lengua y paladar. 5%|0|0|España|0|3
+77|kronenbourg_1664|Kronenbourg|1664|Lager|Presenta un color ámbar pálido tirando a dorado, muy cristalino. La espuma es abundante y bastante persistente. En boca presenta un sabor suave, con muy poco amargor, pero bastante rico en matices frutales. 5%|0|0|Francia|0|3
+78|kronenbourg|Kronenbourg||Lager|Suave, equilibrado, fino amargor, afrutado persistente, notas de malta y lúpulo fresco. 4,2%|0|0|Francia|0|3
+79|grimbergen_blonde|Grimbergen|Blonde|Pale Ale|Sabor intenso, predominio de piña, fruta macerada, ron añejo y regaliz, matices especiados. 6,7%|0|0|Bélgica|0|3
+80|grimbergen_elixir|Grimbergen|Elixir|Pale Ale|En boca, muestra una complejidad aromática innegable. Grimbergen Elixir es una cerveza generosa e intensa en sabor, en el que domina el caramelo, la fruta macerada y notas tostadas apreciables al olfato. 7%|0|0|Bélgica|0|3
+81|grimbergen_blanche|Grimbergen|Blanche|Witbier (Trigo)|Cerveza de trigo tostada de alta fermentación, color amarillo claro, cerveza de poca opacidad y de cremosa espuma. Presenta aromas a frutos amarillos, cítricos, cilantro y clavo que le aportan sabores ácidos y dulces a la vez. 6%|0|0|Bélgica|0|3
+82|grimbergen_brassindenoel|Grimbergen|Brassin de Noël|Pale Ale|Esta picante y generosamente lupulada cerveza ámbar posee aromas de caramelo, regaliz y frutos maduros, así como una nota de ciruelas maceradas. 6,5%|0|0|Bélgica|0|3
+83|grimbergen_ambree|Grimbergen|Ambrée|Pale Ale|Sabor intenso, amargor pronunciado, domina el regaliz y el caramelo. Aroma a malta tostada, naranja amarga, frutas madura y ciruelas maceradas. 6,5%|0|0|Bélgica|0|3
+84|grimbergen_bieredeprintemps|Grimbergen|Bière de Printemps|Lambic (Fruta)|Equilibrio entre sabores dulces, amargos y ácidos. Aroma a fruta, en el que predomina la manzana. Matices de especias, regaliz y gengibre. 6%|0|0|Bélgica|0|3
+85|grimbergen_reserve|Grimbergen|La Reserve|Belgian Strong Ale|En boca, intensidad fuerte, bien equilibrada, predomina la fruta madura, macerada y las especias. Aroma a malta, ron añejo y caramelo. 8,5%|0|0|Bélgica|0|3
+86|grimbergen_rouge|Grimbergen|Rouge|Lambic (Fruta)|Gusto afrutado agridulce, espuma rica, densa y de color rosa, color rubí e intensas fragancias hacen de esta cerveza una refrescante obra maestra. 6%|0|0|Bélgica|0|3
+87|grimbergen_poire|Grimbergen|Poire|Lambic (Fruta)|Sabor intenso, buen equilibrio entre dulce y amargo. Aroma intenso a frutas, matiz especiado. 6%|0|0|Bélgica|0|3
+88|grimbergen_kriek|Grimbergen|Kriek|Kriek (Fruta)|Cerveza equilibrada en sus sabores, dulce, suave amargor y un ligero toque de acidez. Los aromas a cereza que desprende le dan un intenso sabor afrutado. 6%|0|0|Bélgica|0|3
+89|dia_lager|Dia|Lager|Lager|Cerveza del supermercado Dia.4,8%|0|0|España|0|4
+90|dia_extra|Dia|Extra|Lager|Cerveza del supermercado Dia. 8%|0|0|España|0|4
+91|dia_especial|Dia|Especial|Lager|Cerveza del supermercado Dia. 5,5%|0|0|España|0|4
+92|dia_diabrau|Dia|Diabräu 1516|Lager|Cerveza del supermercado Dia. Elaborada según la ley de pureza alemana de 1516. 4,6%|0|0|España|0|4
+93|dia_diasin|Dia|Diasin|Sin Alcohol|Cerveza del supermercado Dia. <1%|0|0|España|0|4
+94|dia_cerocero|Dia|0,0|Sin Alcohol|Cerveza del supermercado Dia. 0,0%|0|0|España|0|4
+95|dia_shandy|Dia|Shandy|Sin Alcohol|Cerveza del supermercado Dia con limón. 0,5%|0|0|España|0|4
+96|steinburg_clasica|Steinburg|Clásica|Lager|Mercadona. Cerveza clásica de sabor suave. 4,8%|0|0|España|0|4
+97|steinburg_leydepureza|Steinburg|Ley de Pureza|Lager|Mercadona. Una cerveza intensa con un sabor  muy personal. 4,9%|0|0|España|0|4
+98|stark_especial|Stark|Especial|Lager|Mercadona. Para los cerveceros más exigentes: sabor fuerte, color dorado y densa espuma. 5,6%|0|0|España|0|4
+99|carrefour_holandesa|Carrefour|Holandesa|Lager|Cerveza holandesa rubia. 4,8%|0|0|Países Bajos|0|4
+100|carrefour_cerocero|Carrefour|0,0|Sin Alcohol|Cerveza lager blond sin alcohol. 0,0%|0|0|Países Bajos|0|4
+101|carrefour_alemana|Carrefour|Alemana|Lager|Cerveza alemana. 5,6%|0|0|Alemania|0|4
+102|carrefour_light|Carrefour|Light|Lager|Cerveza lager light. 2,8%|0|0|Países Bajos|0|4
+103|carrefour_extra|Carrefour|Extra|Pale Ale|Cerveza strong. 7%|0|0|Alemania|0|4
+104|carrefour_negra|Carrefour|Negra|Schwarzbier (Negra)|Cerveza negra. 5%|0|0|Alemania|0|4
+105|carrefour_hepenheimer|Carrefour|Hepenheimer|Weizenbier (Trigo)|Cerveza de trigo. 5%|0|0|Alemania|0|4
+106|carrefour_premium|Carrefour|Premium|Lager|Cerveza lager. 4,7%|0|0|Países Bajos|0|4
+107|carrefour_shandy|Carrefour|Shandy|Radler|Cerveza con limón. <0,5%|0|0|Alemania|0|4
+108|carrefour_sin|Carrefour|Sin|Sin Alcohol|Cerveza sin alcohol. <1%|0|0|Países Bajos|0|4
+109|carrefour_estribos|Carrefour|Estribos|Con tequila|Cerveza con tequila. 5,9%|0|0|Francia|0|4
+110|carrefour_labbaye|Carrefour|L'Abbaye|Abadía|Cerveza de abadía. 6,2%|0|0|Bélgica|0|4
+111|sanmiguel_00|San Miguel|0,0|Sin Alcohol|Cerveza dorada y brillante de densidad media. Entrada ligera y fresca de acidez media y ligero amargor y un final ligero y algo dulce. 0,0%|0|0|España|0|5
+112|sanmiguel_00_limon|San Miguel|0,0 Limón|Radler|Cuerpo liviano, natural y refrescante. Sabor intenso a limón y una delicada combinación cítrica y amarga. 0,0%|0|0|España|0|5
+113|sanmiguel_00_manzana|San Miguel|0,0 Manzana|Sin Alcohol|En principio se perciben las notas del malteado de la cebada que desprende un tostado muy fino. Entra con suavidad, se desplaza con equilibrio, deja un amargor final muy agradable. 0,0%|0|0|España|0|5
+114|sanmiguel_00_melocotuva|San Miguel|0,0 Melocotuva|Sin Alcohol|Cerveza con zumo de melocotón y uva. 0,0%|0|0|España|0|5
+115|sanmiguel_00_naramango|San Miguel|0,0 Naramango|Sin Alcohol|Cerveza con zumo de naranja y mango. 0,0%|0|0|España|0|5
+116|sanmiguel_1516|San Miguel|1516|Pilsen|Es equilibrada y tostada con amargor medio destacando un sutil tostado de la cebada. En retronasal es de persistencia media y se mantienen ecos de regaliz. 4,2%|0|0|España|0|5
+117|sanmiguel_blu|San Miguel|Blu|Otro|De color ámbar dorado con predominio de aromas tostados, perfectamente equilibrada con notas de vodka y un sutil toque cítrico que el da un carácter único y diferente. 6%|0|0|España|0|5
+118|sanmiguel_clara|San Miguel|Clara|Radler|Entrada ligeramente dulce y muy refrescante, con buena acidez; al final deja una mezcla cítrica y amarga equilibrada y refrescante. 3,2%|0|0|España|0|5
+119|sanmiguel_eco|San Miguel|Eco|Lager|Cerveza ecológica. Entrada ligera muy refrescante con un toque de amargor, presencia de fruta blanca y naranja y ligeras notas de cereal tostado, que se recuerdan en un final muy seco. 4,2%|0|0|España|0|5
+120|sanmiguel_especial|San Miguel|Especial|Lager|Amarillo oro con reflejos de oro viejo. En fase olfativa hay recuerdos ahumados sobre fondos de cereales. En boca es equilibrada, tostada, con amargor medio destacando un sutil tostado de la cebada. 5,4%|0|0|España|0|5
+121|sanmiguel_fresca|San Miguel|Fresca|Lager|Cerveza de color dorado brillante con una fina capa de espuma. Olor de intensidad medio, ligeramente afrutado y con suaves tonos de lúpulo y malta. Ligera y refrescante, con un fino amargor, que juntamente con un trozo de limón añadido al servir, consigue suavizar el amargor de la cerveza a la vez que le aporta unos toques cítricos que la acompañan perfectamente y realzan su frescor en boca. 4,4%|0|0|España|0|5
+122|sanmiguel_isotonica|San Miguel|0,0 Isotónica|Sin Alcohol|De aspecto es brillante, dorada y con espuma cremosa y consistente. En aroma es suave de intensidad, destacando a cereal con notas ligeras de levadura, algo afrutada y con un sutil fondo a lúpulos. En boca resulta equilibrada, de gusto ligeramente dulce, con ligera acidez, amargor suave. 0,0%|0|0|España|0|5
+123|sanmiguel_selecta|San Miguel|Selecta|Lager|Al principio suave, se desplaza con sabores marcados a maltas y a su tostado. El final es amargo y persistente. 6,2%|0|0|España|0|5
+124|sanmiguel_singluten|San Miguel|Sin glúten|Lager|Entrada ligeramente dulce y muy refrescante, con buena acidez; al final deja una mezcla cítrica y amarga equilibrada y refrescante. 5,4%|0|0|España|0|5
+125|estrella_damm|Estrella Damm||Lager|Color dorado, reflejos verdosos, poca espuma. En boca es muy ligera, alguna sensación de tostado. 5,4%|0|0|España|0|5
+126|voll_damm|Voll Damm||Märzen|Color amarillo dorado con ligeros marrones de buena cantidad de espuma y de notable duración. En boca, sabor intenso, excelente amargor compensado con los toques mielosos y de tostados, el final largo y persistente. 7,2%|0|0|España|0|5
+127|bock_damm|Bock Damm||Bock|Es una cerveza de color negro, cristalina, de sabor suave, ligeramente tostado  y tiene un amargor suave. El color de la espuma es caramelizado y se aprecia una densidad mayor comparada con sus hermanas rubias. 5,4%|0|0|España|0|5
+128|inedit_damm|Inedit Damm||Pale Ale|Alta intensidad y complejidad aromàtica, con un aspecto ligeramente turbio. Muy afrutada y floral, con sensación de levadura fresca y reminisciencias de especies dolces. De textura cremosa y fresca, volumen suave y carbónico delicado. Tiene un postsabor largo y un recuerdo afable. 4,8%|0|0|España|0|5
+129|daura_damm|Daura Damm|Sin gluten|Lager|Color dorado claro con espuma blanca, ligera y efímera. En boca es refrescante y con mucho carbónico. De entrada aparece una ligera acidez que pasa rápido a amargos patentes y persistentes. 5,4%|0|0|España|0|5
+130|free_damm|Free Damm|0,0|Sin Alcohol|El resultado es una cerveza 0,0 ligera, fresca y de equilibrado amargor, muy baja en calorías. 0,0%|0|0|España|0|5
+131|lemon_damm|Damm Lemon||Radler| Una clara elaborada con la selección de los mejores ingredientes, 6 partes de Estrella Damm y 4 partes de limones mediterráneos y un ligero toque de lima que refuerza en boca la sensación refrescante. 3,2%|0|0|España|0|5
+132|xibeca_damm|Xibeca Damm||Lager|Es suave y de carácter refrescante. 4,6%|0|0|España|0|5
+133|ak_damm|A.K. Damm||Lager|Color ámbar, con reflejos de oro viejo. En boca comienza refrescante gracias al lúpulo, con un punto dulce a cereal que deja paso a un amargor muy suave, agradable y prolongado. 4,8%|0|0|España|0|5
+134|saaz_damm|Saaz Damm||Lager|Saaz se elabora exclusivamente con lúpulo aromático de Saaz, por eso tiene ese característico aroma y sabor suave. 3,5%|0|0|España|0|5
+135|ambar_especial|Ambar|Especial|Pilsen|Ambar especial es una lager tipo pilsner de color ambarino y tostado medio. Con 5,2 grados de alcohol y una selecta variedad de cebada, el tueste de las maltas le confiere un sabor dulcificado que equilibra el amargor del lúpulo. 5,2%|0|0|España|0|5
+136|ambar_export|Ambar|Export|Märzen|Tres maltas, doble período de fermentación y lenta maduración en bodega. Así es Ambar Export, una cerveza hecha sin prisas. Con 7 grados de alcohol, Ambar Export es una tostada excepcional, rojiza, rica en matices aromáticos y con una espuma densa cremosa. Más cuerpo, más sabor y más carácter para una cerveza que se disfruta igual que como se elabora, con calma. 7%|0|0|España|0|5
+137|ambar_radler|Ambar|Radler|Radler|Mezcla equilibrada de Ambar Especial con zumo de limón manteniendo toda la esencia de la cerveza y el frescor de la fruta. 2,5%|0|0|España|0|5
+138|ambar_cerocero|Ambar|0,0|Sin Alcohol|Su sabor suave hacen que se convierta en un aliado para calmar la sed y reponer nutrientes tras la actividad física. 0,0%|0|0|España|0|5
+139|ambar_cerocero_limon|Ambar|0,0 Lemon|Sin Alcohol|Con todo el frescor del zumo de limón, y el recuerdo a sabor de cerveza, Ambar Lemon es un refresco adulto muy agradable en nariz y al paladar. 0,0%|0|0|España|0|5
+140|ambar_cerocero_manzana|Ambar|0,0 Manzana|Sin Alcohol|Una cerveza 0,0 pensada para refrescar de manera natural. Sin azúcares añadidos y sin alcohol, puede ser una alternativa divertida a la cerveza tradicional o simplemente la elección predilecta. 0,0%|0|0|España|0|5
+141|ambar_singluten|Ambar|Especial Celíacos|Lager|Conserva característico color dorado de la Ambar Especial y esa combinación de sabores entre dulces y amargos. 5,2%|0|0|España|0|5
+142|ambar_singluten_cerocero|Ambar|0,0 Celíacos|Sin Alcohol|Su sabor suave hacen que se convierta en un aliado para calmar la sed y reponer nutrientes tras la actividad física. 0,0%|0|0|España|0|5
+143|ambar_marlen|Ambar|Marlen|Dortmunder|Marlen es una cerveza de estilo Dortmunder, o lo que es lo mismo una cerveza de color amarillo pálido, sabrosa, aromática y con un amargor muy delicado. 5,8%|0|0|España|0|5
+144|ambar_sputnik|Ambar|Sputnik|Otro|Está elaborada con una malta muy poco tostada que le da su característico color pálido. El toque ligeramente amargo del lúpulo completa los aromas de las frutas más ácidas. Aromatizada con el licor ruso por excelencia. 5,9%|0|0|España|0|5
+145|ambar_negra|Ambar|Negra|Münchner Dunkel|Elaborada con azúcar de caña sin refinar procedente de la última plantación que queda en España, esta cerveza oscura, también en su personalidad, ofrece aromas de chocolate negro, regaliz y toffe. Una cerveza fermentada a muy baja temperatura, pensada para iniciarse en un mundo de cerveza un poco más compleja. 4,8%|0|0|España|0|5
+146|ambar_10|Ambar|10|Strong Lager|10 variedades de lúpulo y 10 grados de alcohol. Su color anaranjado y un leve recuerdo a la madera en el aroma nos trasladan al mundo licoroso. Un imaginario que queda en un segundo plano cuando se percibe el frescor dulce, con notas cítricas y el universo herbal proveniente de los lúpulos. Es untuosa y persistente en boca, aunque el grado de amargor está por debajo de lo esperado. 10%|0|0|España|0|5
+147|ambar_picante|Ambar|Picante|Otro|Para aventureros y sedientos de cervezas distintas. El jengibre es una raíz de origen oriental muy utilizada en la cocina asiática. Su frescor inesperado, potente sabor y exótico aroma, culminan con un grado medio de picante al finalizar el trago. 7,1%|0|0|España|0|5
+148|ambar_centeno|Ambar|Centeno|Otro|Ambar Centeno es una cerveza excéntrica por su complejidad. Turbia, sedosa en boca, tostada, sutil en aromas y amable al paladar. Sorprende por tener un cuerpo y textura poco habitual. El tono oscuro da pistas de lo que vamos a encontrar. 6,5%|0|0|España|0|5
+149|ambar_1900|Ambar|1900|Pale Ale|Ambar 1900 rompe los cánones de lo que se espera de una cerveza ale. Reúne todos los matices aromáticos que se encuentran tras el proceso de fermentación a alta temperatura pero con un cuerpo ligero, un color pálido y una burbuja extra fina. De moderado amargor, resulta muy suave al paladar y llena de frutas frescas y malta recién horneada. 4,8%|0|0|España|0|5
+150|ambar_caesar|Ambar|Caesaraugusta|Weizenbier (Trigo)|Cerveza con cuerpo donde hay una parte más pesada del cereal que da cuerpo a la cerveza y otra procedente de la levadura que aporta frescor. Es sencillo apreciar su característico punto especiado que acompaña a las notas frutales que predominan. El magnífico equilibrio entre los sabores, dulces, ácidos y amargos hacen de esta cerveza, poco ortodoxa, una gran opción en cualquiera de las estaciones. 5,2%|0|0|España|0|5
+151|estrellalevante_puntaeste|Estrella de Levante|Punta Este|Lager|Ámbar limpio y espuma marfil. Aromas de Malta de intensidad media baja. Cuerpo medio maltoso, con sabor como en aroma y final seco. 5,4%|0|0|España|0|5
+152|estrellalevante|Estrella de Levante||Lager|Nuestra Estrella Levante Clásica es una Lager ligera que conserva la originalidad de las Pilsen auténticas. A la Malta le acompaña un acentuado aroma a Lúpulo fresco que le da un sabor un tanto seco y amargo, con un final ligero y refrescante. 4,8%|0|0|España|0|5
+153|estrellalevante_sin|Estrella de Levante|Sin|Sin Alcohol|Lager auténtica que, incluso siendo una “sin” conserva todas las propiedades de aroma y sabor de la Cerveza. <1%|0|0|España|0|5
+154|skol_lager|Skol|Lager|Lager|Refrescante y amargor suave. Color dorado claro. 5%|0|0|Bélgica|0|5
+155|skol_force|Skol|Force|Strong Lager|Cerveza oscura de fuerte sabor a lúpulo. 8%|0|0|Bélgica|0|5
+156|skol_lite|Skol|Lite|Lager|Cerveza con pocas calorías. Suave amargor. 4,6%|0|0|Bélgica|0|5
+157|skol_cerocero|Skol|0,0|Sin Alcohol|Cerveza amarga 0,0.|0|0|Bélgica|0|5
+158|skol_cactus|Skol|Cactus|Con tequila|Cerveza rubia con un toque de tequila. 5,9%|0|0|Bélgica|0|5
+159|snow|Snow||Lager|Cerveza de color amarillo de sabor suave. Es la cerveza más vendida en el mundo. 3,5%|0|0|China|0|6
+160|tsingtao|Tsingtao||Pilsen|Color dorado con espuma ligera, sabor agradable con toques de cereales tostados. 4,7%|0|0|China|0|6
+161|budlight|Bud Light||Lager|Cerveza elaborada utilizando una mezcla de variedades de lúpulo aromáticos de primera calidad y una combinación de maltas de cebada y arroz. 4,2%|0|0|Estados Unidos|0|6
+162|budlight_lime|Bud Light|Lime|Radler|Cerveza ligera macerada con zumo de lima. 4,2%|0|0|Estados Unidos|0|6
+163|budlight_platinum|Bud Light|Platinum|Lager|Marcado sabor con un final suave y levemente dulce. 6%|0|0|Estados Unidos|0|6
+164|budlight_chelada|Bud Light|Chelada Clamato|Otro|Mezcla de la Bud Light clásica con el sabor del cocktail de tomate Clamato. 4,2%|0|0|Estados Unidos|0|6
+165|budlight_extralime|Bud Light|Chelada Extra Lime|Otro|Mezcla de la Bud Light clásica con el sabor del cocktail de tomate Clamato con un extra de lima. 4,2%|0|0|Estados Unidos|0|6
+166|budweiser|Budweiser||Lager|Color amarillo suave. Espuma blanca y poco persistente. Poco amarga y ligeros toques cítricos. 4,8%|0|0|Estados Unidos|0|6
+167|yanjing|Yanjing||Lager|Suave y refrescante. Cerveza sin trigo. Preparada con agua mineral, lúpulo, arroz y cebada de malta. 4,5%|0|0|China|0|6
+168|harbin|Harbin||Lager|Cerveza de color claro. Sabor suave con ligeros toques metálicos. 5,5%|0|0|China|0|6
+169|corona|Corona|Extra|Pilsen|Color amarillo dorado pálido, es muy ligera, de aroma poco intenso pero franco, que recuerda ligeramente al cereal, con un paladar fresco. Es de sabor suave, ligera, refrescante y baja en calorías. 4,6%|0|0|México|0|6
+170|desperados|Desperados||Con tequila|Una combinación única de color dorado, cerveza rubia y con cuerpo, con un toque de sabor a tequila para alcanzar un balance perfecto de cerveza premium de sabor distinto, ligeramente amarga y con toques cítricos refrescantes. 6%|0|0|Países Bajos|0|6
+171|sol|Sol||Lager|En su aroma predominan las notas acerealadas y ligeramente cítricas, con un contenido de amargo medio se logra que el sabor no sea intenso, adicionando a estas características esta cerveza tiene un cuerpo moderado que ayuda a obtener una sensación muy refrescante. 4,5%|0|0|México|0|6
+172|becks|Beck's||Pilsen|Aroma ligeramente amargo y fragante y su sabor maduro, procedente del método de producción tradicional y de la maduración a una temperatura especialmente fría. 4,8%|0|0|Alemania|0|6
+173|paulaner_naturtrub|Paulaner|Hefe-Weissbier Naturtrüb|Weizenbier (Trigo)|Fruto de la combinación de maltas de trigo y cebada, pero se torna ligeramente herbácea y amarga luego, dejando un agradable regusto al final. A pesar de su contundencia, es muy refrescante. 5,5%|0|0|Alemania|0|6
+174|paulaner_dunkel|Paulaner|Hefe-Weissbier Dunkel|Dunkelweizen (Tostada)|Su gran contenido de la más fina malta de Múnich y su intenso color castaño convierten a la prima morena de la cerveza de trigo en una auténtica sensación. Al probarla se advierten unas ligeras notas de chocolate y cacao, que se alían con la malta de trigo y nobles aromas tostados. 5,3%|0|0|Alemania|0|6
+175|paulaner_kristallklar|Paulaner|Weissbier Kristallklar|Weizenbier (Trigo)|Cristalina, con destellos dorados y un intenso sabor a malta. Agradable sabor dulce, fresco y afrutado. 5,2%|0|0|Alemania|0|6
+176|paulaner_sin|Paulaner|Hefe-Weissbier Non-Alcohol|Sin Alcohol|Cerveza de trigo sin alcohol. <0,5%|0|0|Alemania|0|6
+177|paulaner_munchner|Paulaner|Münchner Hell|Münchner Hell|Una cerveza de muy agradable paladar: suave, con un elegante toque de malta y un ligero dulzor. Y además, con una discreta reminiscencia de lúpulo. 4,9%|0|0|Alemania|0|6
+178|paulaner_salvator|Paulaner|Salvator|Doppelbock|Color ámbar oscuro con espuma cremosa. De intensa entrada en boca, mediana carbonatación y con bastante cuerpo, destaca el profundo dulzor de la malta, acompañado de matices a toffee, grosellas, ciruelas y pan tostado. 7,9%|0|0|Alemania|0|6
+179|paulaner_oktoberfest|Paulaner|Oktoberfest Bier|Märzen|Dominado por un núcleo de malta, cereal, masa de pan y suave toffee, envuelto en frutas maduras y miel, con toques cítricos y levadurosos totalmente secundarios. La textura es densa y cremosa, aunque el paso por boca es fugaz. Termina en un final largo, de amargor claro pero controlado, donde notas florales y suaves notas cítricas del lúpulo noble se mueven con libertad entre matices más dulces. 6%|0|0|Alemania|0|6
+180|franziskaner_naturtrub|Franziskaner|Hefe-Weissbier Naturtrüb|Weizenbier (Trigo)|Cerveza blanca de trigo, color brillante y claro, aroma cautivador y buena corona de espuma. Aroma de frutas maduras, cítricos y plátano, textura cremosa, nos deja un primer impacto intenso para dejar paso luego a un punto amargo suave y muy refrescante. 5%|0|0|Alemania|0|6
+181|franziskaner_dunkel|Franziskaner|Hefe-Weissbier Dunkel|Dunkelweizen (Tostada)|Exuberante espuma de color crema, sutiles notas de pan fresco, nueces y caramelo. La sensación en boca es aterciopelada y refrescante, cuerpo fuerte y picante. 5%|0|0|Alemania|0|6
+182|franziskaner_sin|Franziskaner|Hefe-Weissbier Alkoholfrei|Sin Alcohol|Con un sabor a notas dulces y pan, muy refrescante. Cerveza de color dorado y espuma blanca cremosa, aroma a plátano, cítricos y trigo. 0,5%|0|0|Alemania|0|6
+183|abbayedaulne_blonde|Abbaye d'aulne|Blonde 6º|Belgian Blonde Ale|Cerveza rubia de abadía con segunda fermentación en botella. De color dorado, esta cerveza se distingue por su sabor lupulado ligeramente afrutado, y por su cuerpo ligero y armonioso. 6%|0|0|Bélgica|0|6
+184|abbayedaulne_brune|Abbaye d'aulne|Brune 6º|Dubbel (Tostada)|Cerveza tostada de abadía con segunda fermentación en botella. De color oscuro, esta cerveza se caracteriza por sus notas caramelizadas y claramente especiadas, y por su agradable sabor dulce-amargo. 6%|0|0|Bélgica|0|6
+185|abbayedaulne_ambree|Abbaye d'aulne|Ambrée 6º|Pale Ale|Cerveza de abadía ámbar, con segunda fermentación en botella. Tradicional cerveza belga de primavera, es la perfecta combinación entre el aroma lupulado y las notas de alcohol de la Blonde 6°, y el sabor especiado y dulce de la Brune 6°. 6%|0|0|Bélgica|0|6
+186|abbayedaulne_premiercru|Abbaye d'aulne|Premier Cru 9º|Belgian Strong Ale|Cerveza rubia de abadía con segunda fermentación en botella. Fruto de la pasión y del saber hacer, esta cerveza se caracteriza por su variedad de sabores intensos y sutiles. 9%|0|0|Bélgica|0|6
+187|abbayedaulne_curveeroyale|Abbaye d'aulne|Curvée Royale 9º|Belgian Strong Ale|Cerveza tostada de abadía con segunda fermentación en botella. De color ligeramente cobrizo, su sabor es intenso y caramelizado. Se distingue por una variedad de sabores deliciosos, y por sus aromas potentes y especiados. 9%|0|0|Bélgica|0|6
+188|stellaartois|Stella Artois||Lager|Cerveza de color dorado pálido. De sabor amargo fino. Perfectamente eequilibrada. 5%|0|0|Bélgica|0|6
+189|guinness_draught|Guinness|Draught|Stout (Negra)|Suave con notas a café y malta. Amargo y dulce equilibrado con matices malteados y tostados. Espuma cremosa. 4,2%|0|0|Irlanda|0|6
+190|guinness_original|Guinness|Original|Stout (Negra)|Sabor intenso agridulce. Cerveza suave y ligeramente fuerte con un final seco. 5%|0|0|Irlanda|0|6
+191|guinness_foreign|Guinness|Foreign Extra Stout|Stout (Negra)|Matices tostados y afrutados. Cosquilleo inicial, agridulce con un final seco. 7,5%|0|0|Irlanda|0|6
+192|guinness_dublinporter|Guinness|Dublin Porter|Porter (Tostada)|Sabor dulce, no muy tostado, con sabor a malta y caramelo. Suave final con una sensación de dulzor medio en boca. 3,8%|0|0|Irlanda|0|6
+193|guinness_westindiesporter|Guinness|West Indies Porter|Porter (Tostada)|Sabor dulce con más sabor a chocolate que a café. Suave final con una sensación de dulzor medio en boca. 6%|0|0|Irlanda|0|6
+194|guinness_goldenale|Guinness|Golden Ale|Pale Ale|Ligeramente dulce con toques de galleta, malta y lúpulo. Ligeramente seca en boca, con un final refrescante y poco persistente. 4,5%|0|0|Irlanda|0|6
+195|guinness_hophouse|Guinness|Hop House 13|Lager|Cerveza rubia de gran sabor, lupulada y con toques cítricos en nariz. 5%|0|0|Irlanda|0|6
+196|guinness_blondeamerican|Guinness|Blonde American Lager|Lager|Cerveza rubia compleja y llena de sabor, lupulada y con toques cítricos en nariz. 5%|0|0|Irlanda|0|6
+197|guinness_nitroipa|Guinness|Nitro Ipa|Pale Ale|Mezcla equilibrada de lúpulos y cebada tostada con notas cítricas. 5,8%|0|0|Irlanda|0|6
+198|guinness_specialexport|Guinness|Special Export|Stout (Negra)|Sabor a café tostado con gran cuerpo, con matices de chocolate amargo, regaliz salado, melaza y bayas. 8%|0|0|Irlanda|0|6
+199|staropramen_premium|Staropramen|Premium|Lager|Staropramen Premium Lager es una pilsener de color dorado intenso, que se aprecia mejor en vaso de cristal, donde desprende una capa perfecta de espuma blanca. 5%|0|0|República Checa|0|6
+200|staropramen_dark|Staropramen|Dark|Dark Lager (Negra)|Sabor a caramelo y lúpulo. 4,4%|0|0|República Checa|0|6
+201|leffe_triple|Leffe|Triple|Tripel|Es una cerveza acondicionada en botella. De color dorado, ligeramente turbia por la levadura utilizada para la refermentación en botella. En boca encontramos notas de limón y vainilla, fresco, ligero y puro. De carácter muy refrescante y aromática. 8,4%|0|0|Bélgica|0|6
+202|leffe_rituel|Leffe|Rituel 9º|Belgian Strong Ale|Cerveza de primera fermentación con un profundo color dorado. Los fuertes sabres ofrecen una cerveza llena de carácter. 9%|0|0|Bélgica|0|6
+203|leffe_radieuse|Leffe|Radieuse|Belgian Strong Ale|Color ámbar. Rica en sabor y deliciosamente refinada. Muy compleja, gusta a los conocedores de cerveza. 8,2%|0|0|Bélgica|0|6
+204|leffe_nectar|Leffe|Nectar|Bière de Garde|Cerveza rubia, con toques a miel. 5,5%|0|0|Bélgica|0|6
+205|leffe_brown|Leffe|Brune|Dubbel (Tostada)|Es una variante de la Leffe Blonde, elaborada con malta tostada, que le da su color marrón oscuro. De sabor ligeramente afrutado, con notas de manzana. 6,5%|0|0|Bélgica|0|6
+206|leffe_blonde|Leffe|Blonde|Belgian Blonde Ale|Cerveza belga de abadía, de color dorado. Sabor ligero y suave, con cuerpo, con aromas en perfecta armonía. 6,6%|0|0|Bélgica|0|6
+207|erdinger_weissbier|Erdinger|Weissbier|Weizenbier (Trigo)|Color rubio con una leve turbiedad, de abundante espuma blanca que desaparece dejando una ligera cubierta de espuma. Su aroma destaca por notas a lúpulo, levadura, frutal y cítrico. Su sabor es dulce, poco amargor, buen cuerpo y regusto armónico, tiene un final dulce, rico y completo. 5,6%|0|0|Alemania|0|6
+208|erdinger_dunkel|Erdinger|Dunkel|Dunkelweizen (Tostada)|Cerveza de trigo oscura con un aroma especiado. Su gran sabor se debe al lúpulo y a las maltas tostadas que se utilizan durante su elaboración. Sabor picante pero en general suave. Color marrón oscuro. 5,3%|0|0|Alemania|0|6
+209|erdinger_sin|Erdinger|Alkoholfrei|Sin Alcohol|Cerveza de trigo sin alcohol elaborada según los estándares de la Ley de Pureza Alemana utilizando sólo agua,malta y lúpulo. 0,5%|0|0|Alemania|0|6
+210|judas|Judas||Belgian Strong Ale|Es una cerveza rubia, de alta graduación alcohólica. Sabor suave, amargo y a la vez dulce. Buen cuerpo y equilibrio entre sus aromas y el amargor. 8,5%|0|0|Bélgica|0|6
+211|affligem_blonde|Affligem|Blonde|Pale Ale|Brillante y dorada, con una capa firme y densa. Con una carbonatación natural y un aroma cuidadosamente equilibrado de pan fresco, especias, plátano, cítricos y toques de vainilla. 6,7%|0|0|Bélgica|0|6
+212|affligem_dubbel|Affligem|Dubbel|Dubbel (Tostada)|Ale de abadía de color marrón rojizo elaborada con maltas oscuras. La segunda fermentación da un aroma afrutado y un carácter picante único, con un regusto característico. 6,8%|0|0|Bélgica|0|6
+213|affligem_triple|Affligem|Triple|Tripel|Riqueza terrosa en un brillante cuerpo ámbar cubierto por una capa cremosa. Al alzar la copa nos invade el aroma a pan horneado, plátano y fruta madura. La dulzura del azúcar residual se mezcla con el sabor a albaricoque y melocotón en cada sorbo. De cuerpo medio y suave en la boca, la Affligem Triple tiene un final especiado y amargo. 9%|0|0|Bélgica|0|6
+214|murphys_irishstout|Murphy's|Irish Stout|Stout (Negra)|Stout de color cobrizo con notas afrutadas y a malta tostada. 4%|0|0|Irlanda|0|6
+215|murphys_irishred|Murphy's|Irish Red|Red Ale|Aunque los primeros sorbos resultan algo amargos, en seguida la cerveza va tomando un sabor dulzón. Destacan notas a malta tostada, café y caramelo. Regusto amargo debido al lúpulo. Color cobrizo. 5%|0|0|Irlanda|0|6
+216|kwak|Kwak||Belgian Strong Ale|Cerveza especial belga de alta fermentación y filtrada. Admirada por su color magnífico de ámbar, su aroma delicado y un poco provocativa, pero de una riqueza sin par. 8,4%|0|0|Bélgica|0|7
+217|tripel_karmeliet|Tripel Karmeliet||Tripel|Tripel Karmeliet tiene no sólo la ligereza y frescura de trigo, sino también la cremosidad de la avena junto con el cítrico limón y sequedad casi de la quinina. Su sabor fino y seco acaba en un toque de fruta madura y confitada. 8,4%|0|0|Bélgica|0|7
+218|deus_brut_des_flandres|Deus|Brut des flandres|Belgian Strong Ale|Producida con cebada, se fermenta en Bélgica y se envía a la región francesa de Champagne, donde se colocan en las cuevas durante doce meses. De su aroma destaca en nariz pistas de cítricos y melocotones. La cerveza gana al final, principalmente a causa de la amargura. 11,5%|0|0|Bélgica|0|7
+219|delirium_nocturnum|Delirium|Nocturnum|Belgian Strong Ale|Al principio, una sensación muy agradable en boca a alcohol y suavidad. Le sigue un creciente amargor, que en parte procede del lúpulo, pero también de la malta tostada y de la malta de chocolate. Hacia el final, agradable equilibrio entre los toques amargo, agrio y dulce. 8,5%|0|0|Bélgica|0|7
+220|delirium_christmas|Delirium|Christmas|Belgian Strong Ale|Fuerte presencia de alcohol, muy picante, ligeramente amargo. El regusto es dulce, picante y ligeramente amargo. 10%|0|0|Bélgica|0|7
+221|delirium_red|Delirium|Red|Fruit Beer|Dulce y afrutado, con un agradable equilibrio agridulce. Una excelente cerveza de postre. 8,5%|0|0|Bélgica|0|7
+222|delirium_argentum|Delirium|Argentum|Pale Ale|Intenso con un toque a caramelo. La mezcla con el picante y cítrico amargor, le dan un sabor complejo y un agradable frecor. 7%|0|0|Bélgica|0|7
+223|delirium_deliria|Delirium|Deliria|Belgian Strong Ale|Un agradable toque carbonatado permite percibir de forma completa y suave su sabor. Tiene un aroma muy equilibrado, con un fondo afrutado y floral, y un primer recuerdo a Chardonnay que da paso a un aroma picante y suave a lúpulo. Su sabor tiene mucho cuerpo y encuentra el equilibrio entre los afrutados tonos de manzana y uva Chardonnay. Deliria presenta un regusto de un amargor suave y delicado, y un sabor redondo y espléndido que evoluciona bien en boca. 8,5%|0|0|Bélgica|0|7
+224|delirium_tremens|Delirium|Tremens|Pale Ale|El sabor se caracteriza por su redondez. El regusto es fuerte, duradero y con un amargor seco. 8,5%|0|0|Bélgica|0|7
+225|laguillotine|La Guillotine||Tripel|Al principio, más bien dulce, debido al alcohol. El intenso sabor y la redondez ocultan la presencia de un elevado amargor. 8,5%|0|0|Bélgica|0|7
+226|campus_premium|Campus|Premium|Lager|Dulzura ligeramente a malta, amargor agradable, sabor rico y equilibrado. Regusto ligeramente dulce y amargo hacia el final. 5%|0|0|Bélgica|0|7
+227|campus_amber|Campus|Amber|Belgian Dark Ale|Las primeras impresiones son ligeramente dulces, con un toque de caramelo. Después le sigue una nota picante de cilantro combinada con pimienta. Un regusto suave y amargo. 7%|0|0|Bélgica|0|7
+228|campus_gold|Campus|Gold|Pale Ale|Al principio, muy suave y redondo. Una cerveza agradable y equilibrada, con algunas notas fuertes y amargas a lúpulo. El regusto combina a la perfección la fruta, el trigo y el amargor. 6,2%|0|0|Bélgica|0|7
+229|idesbald_blonde|St. Idesbald|Blonde|Pale Ale|Amargor, fresco, ligeramente redondo, picante y equilibrado. El regustro es suave y ligeramente amargo. 6,5%|0|0|Bélgica|0|7
+230|idesbald_dubbel|St. Idesbald|Double|Dubbel (Tostada)|Al principio, cierta redondez, que evoluciona hacia un sabor fuerte y poderoso, con varias notas de café (malta tostada). El regusto es bastante amargo. 8%|0|0|Bélgica|0|7
+231|idesbald_tripel|St. Idesbald|Triple|Tripel|Al principio muy redondo, con un toque a miel y pimienta de nuevo. El regusto es muy armonioso y equilibra el toque a malta, fruta y el agradable amargor. Cerveza compleja, con carácter fuerte. 9%|0|0|Bélgica|0|7
+232|idesbald_rousse|St. Idesbald|Rousse|Belgian Blonde Ale|Al principio, un sabor a caramelo-malta, con un trasfondo ligero y dulce, y un amargor suave y sutil. Con un regustro ligeramente seco y algo amargo. 7%|0|0|Bélgica|0|7
+233|blanchedesneiges|Blanche des neiges||Witbier (Trigo)|Cítrico, pero también a trigo. Un muy buen equilibrio entre ácido, fresco y afrutado. 4,8%|0|0|Bélgica|0|7
+234|artevelde_amber|Artevelde|Amber|Belgian Dark Ale|Cerveza fácil de beber. El regusto, más bien corto, tiene un agradable amargor. 5,7%|0|0|Bélgica|0|7
+235|artevelde_grandcru|Artevelde|Grand Cru|Belgian Dark Ale|Los sabores predominantes son el caramelo, un dulce sabor a fruta y un agradable amargor. El regusto revela una pizca de toffee y dátil. 7,2%|0|0|Bélgica|0|7
+236|lachouffe|La Chouffe||Belgian Strong Ale|Cerveza especial belga de alta fermentación y con segunda fermentación en botella. Rubia dorada, fuerte y potente de Co2, con sabor bastante afrutado, referencias a especias y a lúpulo. 8%|0|0|Bélgica|0|7
+237|mcchouffe|Mc Chouffe||Belgian Dark Ale|La McChouffe está refermentada en botella, sin pasteurizar y sin filtrar. Esta ale es oscura, de color cobre a rubí, alcohólica, con notas especiadas y frutales, tiene un amargor a lúpulo bastante balanceado, con sabores a cuero y frutas negras. 8%|0|0|Bélgica|0|7
+238|houblon_chouffe|Houblon Chouffe||Tripel|El cuerpo es bien atenuado, ligero pese a sus 9% de graduación alcohólica. El sabor tiene un balance hacia el amargor que se refuerza tanto por el picor del alcohol como así también por la sequedad de una buena atenuación. 9%|0|0|Bélgica|0|7
+239|nice_chouffe|N'Ice Chouffe||Belgian Dark Ale|Cerveza no pasteurizada de color ambar oscuro-marrón, sin filtrar y con segunda fermentación en botella, con tonos de tomillo y curacao, ligero sabor a lúpulo. 10%|0|0|Bélgica|0|7
+240|chouffe_soleil|Chouffe Soleil||Belgian Blonde Ale|Chouffe Soleil es la versión suave de las serie La Chouffe, delicadamente afrutada y con sabores refrescantes, ideal para celebrar la llegada de la primavera. 6%|0|0|Bélgica|0|7
+241|chouffe_bok|Chouffe Bock||Bock|Registros dulces, con cierta presencia de tonos tostados, recuerdos de frutos otoñales, como las castañas, un delicado punto acaramelado, un sutil toque a licor... La textura es suave, su cuerpo transita en un término medio y la carbonatación es baja. 6,66%|0|0|Bélgica|0|7
+242|cherry_chouffe|Cherry Chouffe||Fruit Beer|8%|0|0|Bélgica|0|7
+243|coors_light|Coors|Light|Lager|Color claro dorado pálido a amarillo, espuma blanca brillante y efervescente que desaparece muy rápido. En nariz es dulce con sabor a maíz, acuosa, ligeramente dulce. De textura acuosa, acabado suave y lisa sin mucho sabor. 4,2%|0|0|Estados Unidos|0|8
+244|miller_lite|Miller|Lite|Lager|Color amarillo pálido con una burbuja continua y fina. Espuma con baja persistencia. Ligeramente amarga. 4,2%|0|0|Estados Unidos|0|8
+245|coors_blanquet|Coors|Banquet|Pale Lager|5%|0|0|Estados Unidos|0|8
+246|miller_highlife|Miller|High Life|Pale Lager|4,6%|0|0|Estados Unidos|0|8
+247|miller_fortune|Miller|Fortune|Red Ale|6,9%|0|0|Estados Unidos|0|8
+248|miller_genuinedraft|Miller|Genuine Draft|Pale Lager|Cerveza americana de tipo Lager, suave y fácil de beber. 4,7%|0|0|Estados Unidos|0|8
+249|miller_highlifelight|Miller|High Life Light|Pale Lager|4,1%|0|0|Estados Unidos|0|8
+250|miller_64|Miller|64|Pale Lager|Cerveza con solo 64 calorías. 2,8%|0|0|Estados Unidos|0|8
+251|miller_sharps|Miller|Sharp's|Sin Alcohol|0,%|0|0|Estados Unidos|0|8
+252|fosters_lager|Foster's|Lager|Pale Lager|Color claro con sabor a malta y un equilibrado toque amargo. 4,9%|0|0|Australia|0|8
+253|fosters_premiumale|Foster's|Premium Ale|Pale Ale|Color cobrizo. Aroma a fruta y caramelo. En boca destaca un suave final a caramelo. 5,5%|0|0|Australia|0|8
+254|peroni_nastroazzurro|Peroni|Nastro Azzurro|Pale Lager|5,1%|0|0|Italia|0|8
+255|peroni_granriservadoppiomalto|Peroni|Gran Riserva Doppio Malto|Bock|6,6%|0|0|Italia|0|8
+256|peroni|Peroni||Lager|4,7%|0|0|Italia|0|8
+257|peroni_granriservarossa|Peroni|Gran Riserva Rossa|Dark Lager (Negra)|5,2%|0|0|Italia|0|8
+258|peroni_granriservapuromalto|Peroni|Gran Riserva Puro Malto|Lager|5,2%|0|0|Italia|0|8
+259|peroni_cruda|Peroni|Cruda|Lager|4,7%|0|0|Italia|0|8
+260|peroni_35|Peroni|3.5|Lager|3,5%|0|0|Italia|0|8
+261|peroni_senzaglutine|Peroni|Senza Glutine|Lager|Cerveza sin glúten. 4,7%|0|0|Italia|0|9
+262|peroni_chilllemon|Peroni|Chill Lemon|Radler|2%|0|0|Italia|0|9
+263|peroni_forte|Peroni|Forte|Strong Lager|8%|0|0|Italia|0|9
+264|peroncino|Peroncino||Lager|4,7%|0|0|Italia|0|9
+265|latrappe_puur|La Trappe|Puur|Belgian Blonde Ale|Cerveza con certificado Skal, fabricada con ingredientes ecológicos. Cerveza fresca y lupulosa con sabor seco de ligero regusto a cebada. 4,7%|0|0|Países Bajos|0|9
+266|latrappe_witte|La Trappe|Witte Trappist|Witbier (Trigo)|Suave sabor a cebada, ligeramente ácido y estimulante debido al porcentaje de ácido carbónico. 5,5%|0|0|Países Bajos|0|9
+267|latrappe_blond|La Trappe|Blond|Belgian Blonde Ale|Cerveza accesible y estimulante con un sabor ligeramente dulce y amargo con matices de cebada. 6,5%|0|0|Países Bajos|0|9
+268|latrappe_dubel|La Trappe|Dubbel|Dubbel (Tostada)|Cerveza trapense clásica de tono oscuro y sabor intenso a cebada y caramelo, con sutiles matices dulces de dátiles, miel y frutas deshidratadas. 7%|0|0|Países Bajos|0|9
+269|latrappe_bockbier|La Trappe|Bockbier|Doppelbock|Esta cerveza única de temporada tiene un sabor seco, tostado y especiado y un fuerte amargor que se funde de forma sorprendente con un tono subyacente de regaliz. 7%|0|0|Países Bajos|0|9
+270|latrappe_isidor|La Trappe|Isid'or|Belgian Blonde Ale|Su sabor armonioso es en primera instancia afrutado y se transforma a continuación en cebada y caramelo; un equilibrio perfecto entre lo sencillo y lo complejo. 7,5%|0|0|Países Bajos|0|9
+271|latrappe_tripel|La Trappe|Tripel|Tripel|Cerveza trapense clásica con un sabor potente e intenso. Esta cerveza tiene, además, un carácter dulce de azúcar cande y un sabor suave de cebada. 8%|0|0|Países Bajos|0|9
+272|latrappe_quadrupel|La Trappe|Quadrupel|Quadrupel|Sabor pleno, cálido e intenso. Cebada con tonos dulces de dátiles y caramelo. 10%|0|0|Países Bajos|0|9
+273|latrappe_oakaged|La Trappe|Quadrupel Oak Aged|Belgian Dark Ale|Cerveza trapense única con un sabor equilibrado. Aroma muy especial a madera. 11%|0|0|Países Bajos|0|9
+274|mortsubite_krieklambic|Mort Subite|Kriek Lambic|Lambic (Fruta)|Cerveza con cereza. 4%|0|0|Bélgica|0|9
+275|mortsubite_witte|Mort Subite|Witte Lambic|Witbier (Trigo)|5,5%|0|0|Bélgica|0|9
+276|mortsubite_gueuze|Mort Subite|Gueuze Lambic|Lambic (Fruta)|Algo ácida, fuertemente aromática. Fresca, suave y ligera en densidad y alcohol. 4,5%|0|0|Bélgica|0|9
+277|mortsubite_kriektradition|Mort Subide|Kriek Lambic Tradition|Lambic (Fruta)|4,5%|0|0|Bélgica|0|9
+278|mortsubite_oude|Mort Subite|Oude Kriek Lambic|Lambic (Fruta)|6,5%|0|0|Bélgica|0|9
+279|mortsubite_oudegueuze|Mort Subite|Oude Gueuze Lambic|Lambic (Fruta)|7%|0|0|Bélgica|0|9
+280|abbayedulys|Abbaye Du Lys|Triple|Tripel|8,5%|0|0|Francia|0|9
+281|konigludwig_weissbier|König Ludwig|Weissbier|Weizenbier (Trigo)|5,5%|0|0|Alemania|0|9
+282|konigludwig_dunkel|König Ludwig|Dunkel|Dunkelweizen (Tostada)|5,1%|0|0|Alemania|0|9
+283|grolsch|Grolsh|Premium Lager|Pale Lager|Cerveza rubia cristalina, de espuma blanca y ligera. En nariz tiene un buen aroma aunque no demasiado potente, y en boca resulta muy fina y cuidada, con un toque de sabor a cereales, dulzona al principio y ligeramente seca y amarga después. 5%|0|0|Países Bajos|0|9
+284|benediktiner_hell|Benediktiner|Hell|Münchner Hell|5%|0|0|Alemania|0|9
+285|benediktiner_weissbier|Benediktiner|Weissbier|Weizenbock (Trigo)|Equilibrada cerveza de trigo, sabor fuerte y frutal, turbidez natural y uniforme de la levadura, apariencia ámbar. 5,4%|0|0|Alemania|0|9
+286|benediktiner_dunkel|Benediktiner|Weissbier Dunkel|Dunkelweizen (Tostada)|Color ámbar marrón, con una cremosa espuma beige. Aromas a malta tostada y caramelo. Final dulce. 5,4%|0|0|Alemania|0|9
+287|benediktiner_alkoholfrei|Benediktiner|Weissbier Alkoholfrei|Sin Alcohol|Cerveza de trigo refrescante de delicioso sabor a trigo con dulzura a malta, completa con una frescura sutil y suave aroma de hierbas. <0,5%|0|0|Alemania|0|9
+288|carling_lager|Carling||Lager|Cerveza refrescante con una mezcla balanceada entre el dulzor y el amargor. 4%|0|0|Reino Unido|0|10
+289|carling_citrus|Carling|Citrus Twist|Radler|La carling tradicional con zumo de lima. 2,8%|0|0|Reino Unido|0|10
+290|cobra_lager|Cobra||Lager|Espuma blanca poco persistente. De aroma neutro y un amargor poco acentuado, en boca es ligeramente refrescante y seco. 4,8%|0|0|India|0|10
+291|cobra_zero|Cobra|Zero|Sin Acohol|Lager sin alcohol|0|0|India|0|10
+292|coors_sin|Coors|Non-Alcoholic|Sin Alcohol||0|0|Estados Unidos|0|10
+293|kingfisher_premium|Kingfisher|Premium|Pale Lager|Lager de color amarillo pálido, de pequeña formación de espuma, aroma a cereales y levadura. 4,8%|0|0|India|0|10
+294|kingfisher_strong|Kingfisher|Strong|Lager|7,1%|0|0|India|0|10
+295|kingfisher_ultra|Kingfisher|Ultra|Lager|5%|0|0|India|0|10
+296|kingfisher_ultra_max|Kingfisher|Ultra Max|Lager|8%|0|0|India|0|10
+297|kingfisher_storm|Kingfisher|Storm|Strong Lager|8%|0|0|India|0|10
+298|kingfisher_buzz_lychee|Kingfisher|Buzz Lychee|Otro|Cerveza con lichi. 5%|0|0|India|0|10
+299|kingfisher_buzz_berry|Kingfisher|Buzz Berry|Otro|Cerveza con bayas. 5%|0|0|India|0|10
+300|kalyani_blacklabel|Kalyani|Black Label|Strong Lager|8%|0|0|India|0|10
+301|ub_export|UB|Export|Pale Lager|5%|0|0|India|0|10
+302|zingaro|Zingaro||Strong Lager|7,5%|0|0|India|0|10
+303|bullet|Bullet|Super Strong|Strong Lager|6%|0|0|India|0|10
+304|cannon_10000|Cannon|10000|Strong Lager|8%|0|0|India|0|10
+305|london_pilsner|London Pilsner||Pale Lager|5%|0|0|India|0|10
+306|apatinsko_pivo|Apatinsko|Pivo|Pale Lager|Cerveza clásica fácil de beber. 4,7%|0|0|Serbia|0|10
+307|astika|Astika||Pale Lager|4,5%|0|0|Bulgaria|0|10
+308|colorado_native_amber|Colorado Native|Amber Lager|Lager|Dulzor moderado a caramelo con toques amargos. 5,5%|0|0|Estados Unidos|0|10
+309|colorado_native_ipl|Colorado Native|Indian Pale Lager|Pale Lager|Sabor intenso amargo balanceado con maltas tostadas. 6,1%|0|0|Estados Unidos|0|10
+310|herman_josephs|Herman Joseph's|Private Reserve|Lager|5%|0|0|Estados Unidos|0|10
+311|barmen_pilsner|Barmen|Pilsner|Pilsen||0|0|Estados Unidos|0|10
+312|bergenbier|Bergenbier||Pale Lager|5%|0|0|Rumanía|0|10
+313|bergenbier_fresh_grapefruit|Bergenbier|Fresh Grapefruit|Otro|Cerveza con zumo de pomelo. 1,9%|0|0|Rumanía|0|10
+314|bergenbier_fresh_lemon|Bergenbier|Fresh Lemon|Radler|Cerveza con zumo de limón. 1,9%|0|0|Rumanía|0|10
+315|bergenbier_fresh_soc|Bergenbier|Fresh Soc|Radler|Cerveza con zumo de remolacha. 1,9%|0|0|Rumanía|0|10
+316|bergenbier_nonalcoholic|Bergenbier|Non Alcoholic|Sin Alcohol|0,5%|0|0|Rumanía|0|10
+317|bergenbier_ale|Bergenbier|Ale|Belgian Blonde Ale|5,5%|0|0|Rumanía|0|10
+318|black_horse|Black Horse||Pale Lager|5%|0|0|Canadá|0|10
+319|red_stripe|Red Stripe||Pale Lager|Apenas tiene amargor, dejando a sus maltas el papel principal de su consumo. Aporta esencialmente un gran frescor tanto en el paladar como en conclusión, sin olvidar la sensación del retrogusto cuando se toma directamente de la botella. 4,7%|0|0|Jamaica|0|10
+320|red_stripe_light|Red Stripe|Light|Pale Lager|3,6%|0|0|Jamaica|0|10
+321|red_stripe_lemon|Red Stripe|Lemon Paradise|Radler|Cerveza con zumo de limón. 4,7%|0|0|Jamaica|0|10
+322|red_stripe_sorrel|Red Stripe|Sorrel|Otro|Cervza con el dulzor y picante de la vinagrera. 4,7%|0|0|Jamaica|0|10
+323|shipyard_export|Shipyard|Export|Blond Ale|5,1%|0|0|Estados Unidos|0|10
+324|shipyard_island_time|Shipyard|Island Time IPA|Pale Ale|4,5%|0|0|Estados Unidos|0|10
+325|shipyard_summer_ale|Shipyard|Summer Ale|Weizenbier (Trigo)|4,8%|0|0|Estados Unidos|0|10
+326|shipyard_melonhead|Shipyard|Melonhead|Otro|Cerveza con zumo de sandía. 4,4%|0|0|Estados Unidos|0|10
+327|shipyard_monkey_fist|Shipyard|Monkey Fist IPA|Pale Ale|6%|0|0|Estados Unidos|0|10
+328|shipyard_pumpkinhead|Shipyard|Pumpkinhead|Otro|Cerveza muy especiada. 4,5%|0|0|Estados Unidos|0|10
+329|shipyard_little_horror|Shipyard|Little Horror of Hops|Pale Ale|Pequeñas notas de picante. 5,9%|0|0|Estados Unidos|0|10
+330|shipyard_fireberry|Shipyard|Fireberry|Otro|Cerveza con hojas de té y bayas frescas. 4,6%|0|0|Estados Unidos|0|10
+331|shipyard_maui_mango|Shipyard|Maui Mango|Otro|Cerveza con hojas de té y mango. 4,3%|0|0|Estados Unidos|0|10
+332|shipyard_prelude|Shipyard|Prelude|Strong Lager|Gran sabor a malta. 6,7%|0|0|Estados Unidos|0|10
+333|shipyard_coffee_porter|Shipyard|Coffee Porter|Porter (Tostada)|Cerveza con aroma a café y notas de chocolate. 4,5%|0|0|Estados Unidos|0|10
+334|shipyard_chamberlain|Shipyard|Chamberlain Pale Ale|Pale Ale|4,9%|0|0|Estados Unidos|0|10
+335|shipyard_old_thumper|Shipyard|Old Thumper|Strong Lager|5,6%|0|0|Estados Unidos|0|10
+336|shipyard_blue_fin|Shipyard|Blue Fin Stout|Stout (Negra)|Stout clásica al estilo irlandés. 4,7%|0|0|Estados Unidos|0|10
+337|shipyard_smashed_pumpkin|Shipyard|Smashed Pumpkin|Pale Ale|Cerveza que mezcla trigo y malta. 9%|0|0|Estados Unidos|0|10
+338|shipyard_smashed_blueberry|Shipyard|Smashed Blueberry|Otro|Mezcla de Porter (negra) y Scotch Ale, con arándanos. 9%|0|0|Estados Unidos|0|10
+339|shipyard_xxxx|Shipyard|XXXX IPA|Pale Ale|9,25%|0|0|Estados Unidos|0|10
+340|shipyard_imperial_stout|Shipyard|Imperial Stout|Stout (Negra)|Aromas a regaliz, espresso y chocolate. 9,5%|0|0|Estados Unidos|0|10
+341|mahou_barricaoriginal|Mahou|Barrica Original|Lager|Color dorado intenso y de espuma densa y consistente. Amargor moderado, en boca es seca. 6,1%|0|0|España|0|11
+342|mahou_barrica12meses|Mahou|Barrica 12 meses|Lager|Color ámbar intenso y espuma densa y consistente. Gusto dulce y amargor suave. 7%|0|0|España|0|11
+343|mahou_barricabourbon|Mahou|Barrica Bourbon|Lager|Lager envejecida en barrica de bourbon. Sabor suave y vibrante con un toque de amargor. 6,9%|0|0|España|0|11
+344|alhambra_roja|Alhambra|Reserva Roja|Bock|Sabor en un primer trago intenso, dejando paso a una cerveza potente y voluptuosa, gracias a su evidente y muy agradable nota de alcohol, tras la que aparecen sabores de cereal. 7,2%|0|0|España|0|11
+345|gordon_honeywhisky|Gordon|Xplosion Honey Whisky|Otro|Gordon Xplosion Honey Whisky, una cerveza Xplosiva. Descubra la combinación perfecta entre la cerveza al whisky y la miel, con todo el sabor de la Gordon. 9%|0|0|Bélgica|0|11
+346|gordon_tequila|Gordon|Xplosion Tequila|Con tequila|Al abrirlo notamos los aromas a lima que van dando paso a otras sensaciones en torno a esta fruta. El sabor estalla cuando el tequila entra en escena junto con otros ingredientes tradicionales que no excluyen el amargor final. 9%|0|0|Bélgica|0|11
+347|gordon_redfruit|Gordon|Xplosion Red Fruit|Fruit Beer|Cerveza de sabor fuerte y refrescante. 11%|0|0|Bélgica|0|11
+348|gordon_ginspices|Gordon|Xplosion Gin Spices|Otro|Sorprendente mezcla de la cerveza Gordon con los aromas de la ginebra. 11%|0|0|Bélgica|0|11
+349|gordon_carbon|Gordon|Finest Carbon|Strong Lager|Aromas a malta, carácter amargo, consistente y cálido en el paladar, final ligeramente aromático. 14,1%|0|0|Bélgica|0|11
+350|gordon_platinum|Gordon|Finest Platinum|Strong Lager|Es una cerveza densa en boca que relega a la garganta un carácter suplementario más severo con matices a de madera, con cierto tono toque picante a nivel de lengua. Destaca su sabor alcoholizado que llega desde el paladar hasta el final de la boca, donde deja un largo y excelente recuerdo. 12%|0|0|Bélgica|0|11
+351|gordon_gold|Gordon|Finest Gold|Strong Lager|Su sabor amargo es armonizado por un volumen alcohólico importante, asistido a su vez con por las maltas claras, que le aportan su sabor aterciopelado, con una caricia sabrosa en su conclusión.﻿ 10%|0|0|Bélgica|0|11
+352|gordon_red|Gordon|Finest Red|Strong Lager|El sabor es directo y preciso avanzando algunos argumentos condimentados, pero secos. Destaca su relevancia por una nota dulce-amarga, plena de una sensación picante y alcohólica.﻿ 8,4%|0|0|Strong Lager|0|11
+353|gordon_silver|Gordon|Finest Silver|Strong Lager|Redonda como un pulido diamante, esta rubia de color y sabor, seduce por una finura de lúpulo, simplemente exquisita. Manifiesta su carácter destilando en su segunda capa, un ímpetu alcohólico leve y penetrante, respetando su corona final.﻿﻿﻿﻿ 7,7%|0|0|Bélgica|0|11
+354|gordon_copper|Gordon|Finest copper|Blond Ale|Conjuga perfectamente un amargor progresivo y una persistente suavidad en retrogusto, permitiendo a la vez la emancipación de un gusto a levadura y malta a medio camino en boca. 5,9%|0|0|Bélgica|0|11
+355|gordon_titanium|Gordon|Finest Titanium|Strong Lager|Fiel a su nombre, perpetúa su poder en nariz. Su seriedad y ligereza crean una combinación perfecta de sabor a malta. Esto va acompañado de un carácter amargo pero redondeado, igualmente cálido en el paladar. 14%|0|0|Bélgica|0|11
+356|gordon_chrome|Gordon|Finest Chrome|Strong Lager|Su amargor seco se fija en el medio de la lengua mientras que sus elementos malteados se hacen notar por los laterales de ésta. 10,5%|0|0|Bélgica|0|11
+357|gordon_five|Gordon|Five|Pilsen|Esta pilsen tiene un carácter elegante con un amargor progresivo que se forma desde que entra en la boca hasta el paladar sin mostrar la más mínima acritud. Resalta sobre todo por su suavidad sin prolongarse excesivamente. 5%|0|0|Bélgica|0|11
+358|gordon_scotch|Gordon|Scotch Ale|Scotch Ale|Combina el amargo de sus lúpulos aromáticos con el sabor dulce aportado por la mezcla de las maltas típicas de la elaboración cervecera, que le dan una calidez irresistible, con multitud de elementos cambiantes en el paladar. 8%|0|0|Bélgica|0|11
+359|gordon_xmas|Gordon|Xmas|Scotch Ale|Esta cerveza típica de Navidad es muy densa en su sabor y tiene mucho cuerpo. Revela mucha dulzura y constancia desde el primer trago. Es la sabia combinación de un verdadero rigor arbolado que, combinando de manera fiel con su aliado dulce, consigue respetar las características de ambos. 8,8%|0|0|Bélica|0|11
+360|bourgogne_des_flandres|Bourgogne des Flandres|Brune|Brown Ale|En linea con las cervezas morenas flamencas, prodiga una real sensación de bienestar alternando sus tonos dulces-amargos, pero secos, conformando en boca un recuerdo de su noble carácter. 5%|0|0|Bélgica|0|11
+361|brasserie_de_la_taupe|Brasserie de la Taupe|Brewer's Desire|Lambic (Fruta)|Seco, dulce, toque de chocolate amargo fondant, acidez similar a la del champán, toque ligeramente tostado y matices de torba que recuerdan al whisky. 7,5%|0|0|Bélgica|0|11
+362|diabolici_fruitsofhell|Diabolici|Fruits of Hell|Kriek (Fruta)|Marcado aroma a cereza amenizado por sutiles notas de tarta de cereza. Con mucho cuerpo y una sensación en boca prolongada y afrutada. 8%|0|0|Bélgica|0|11
+363|diabolici_blondofhell|Diabolici|Blond of Hell|Tripel|La Diabolici afirma su carácter de Triple Rubia de alta fermentación y refermentada en botella. Tiene una graduación del 8% de alcohol y sigue llevando el nombre de sus creadores que hechizan los espíritus de aquellos que la beben alegremente. Este elixir legendario es digno de un mundo mágico, una herencia de nuestra mitología popular. 8%|0|0|Bélgica|0|11
+364|dominus_double|Dominus|Dubbel|Dubbel (Tostada)|La Dominus Double es una cerveza de abadía con un sabor intenso, fresco y prolongado; que deja una sensación especiada, con un regusto amargo bien equilibrado. 6,5%|0|0|Bélgica|0|11
+365|dominus_triple|Dominus|Tripel|Tripel|La Dominus Triple es una cerveza de abadía afrutada, ligeramente especiada y compleja. Sus aromas son jóvenes y frescos. Desde el primer contacto con la boca, esta cerveza transmite una sensación de armonía, de fuerza, un sabor prolongado con un excelente equilibrio de las notas amargas del lúpulo. 8%|0|0|Bélgica|0|11
+366|genevievedebrabant_blanche|Geneviève de Brabant|Blanche|Witbier (Trigo)|Esta cerveza no puede ocultar la realidad de su origen a partir de cereales, y más concretamente del trigo, que define su estirpe dentro de las grandes cervezas blancas de Bélgica. Posee una acidez reducida por la presencia de coriandro, que se manifiesta sobre todo en la conclusión. 5%|0|0|Bélgica|0|11
+367|kilkenny|Kilkenny||Red Ale|La Kilkenny luce un vestido de un rojo profundo, con sutiles reflejos. Su crema es ligera y casi afrutada, muy agradable para calmar la sed. 4,3%|0|0|Irlanda|0|11
+368|martins_ipa|Martin's|IPA|Pale Ale|Intenso en boca y lupulado. Poderoso amargor desde que entra en la boca, conclusión más indulgente. 6,9%|0|0|Bélgica|0|11
+369|martins_ipa55|Martin's|IPA 55|Pale Ale|Después de engatusar el olfato con frescura y con sus aromas cítricos, florales y lupulizados, su sabor amargo se extiende con elegancia hasta hacerse fuerte en el paladar, justificando su carácter sin resultar por ello agresiva. Al contrario incluso: su amargura es el resultado de su armonía con cinco de los mejores lúpulos del mundo. 6,5%|0|0|Bélgica|0|11
+370|martins_paleale|Martin's|Pale Ale|Pale Ale|Las maltas características de esta cerveza Pale Ale juegan su papel en perfecta simbiosis con un lúpulo aromatizado que otorga al producto final ese amargor seco y particular que uno aprecia desde el primer trago. 5,8%|0|0|Bélgica|0|11
+371|mcdouglas_scotch|Mc Douglas|Scotch Ale|Scotch Ale|Es como si el misterio celta escocés se escondiera bajo su apariencia de rubí oscuro. Combina en sólo trago la severidad de sus orígenes, un exotismo caluroso y una seguridad con el paladar, una cintura una pizca endulzada. 7,2%|0|0|Bélgica|0|11
+372|mcdouglas_lord|Mc Douglas|The Lord’s Old Highland Scotch Ale|Scotch Ale|El proceso de maduración de esta Scotch Ale belga fruto de una larga tradición, se desarrolla en barriles de madera, lo que le proporciona a la cerveza su ligero sabor a caramelo, su color rubí y su abundante espuma. 8,5%|0|0|Bélgica|0|11
+373|timmermans_faro|Timmermans|Faro|Faro|Fruto del deseo, la Faro justifica su reputación de cerveza dulce, partiendo de una base de lambic rebajada con agua y azúcar moreno de caña. Este toma el ascendente en boca, regalando un sabor general que no se intensifica en el paladar, conservando admirablemente su papel refrescante. 4%|0|0|Bélgica|0|11
+374|timmermans_framboise|Timmermans|Framboise Lambicus|Lambic (Fruta)|Reproduce fielmente el color del fruto hasta en el gusto de frambuesa madura, respetando a su vez la acidez clásica del Lambic. Esta pura maravilla para el paladar amaga su paroxismo en el retrogusto bucal pleno que es donde se esconde todo su frescor.﻿ ﻿4%|0|0|Bélgica|0|11
+375|timmermans_krieklambicus|Timmermans|Kriek Lambicus|Kriek (Fruta)|Su sabor está plenamente dedicado a la cereza, que se aprecia desde la nariz con mucha potencia. Su acidez es neutralizada por su bouquet agradablemente azucarado y afrutado. Su gusto se anticipa profundamente en boca y deja una conclusión prolongada y agradable, con el recuerdo de la cereza del verano. 4%|0|0|Bélgica|0|11
+376|timmermans_kriekretro|Timmermans|Kriek Retro|Kriek (Fruta)|Bajo un aroma algo agrio, esta kriek de gran tradición despliega su alfombra de acidez y recuerda sin embargo de manera elegante que la cereza es su elemento distintivo respecto a la gueuze. 5%|0|0|Bélgica|0|11
+377|timmermans_lambicusblanche|Timmermans|Lambicus Blanche|Lambic (Fruta)|Su sabor se muestra ligeramente ácido y muy redondeado con un toque dulce, pero providencial para no alterar sus cualidades. 4,5%|0|0|Bélgica|0|11
+378|timmermans_oudegueuze|Timmermans|Oude Gueuze|Gueuze|Esta pequeña maravilla de sabor ácido, amansará al que la pruebe gracias a su sutilidad gustativa en la que el lambic nunca va ligado a lo agrio, sino más bien a un aroma salvaje y fresco con un gusto completamente emancipado desde su introducción, dejando en el paladar un sabor de autenticidad. 5,5%|0|0|Bélgica|0|11
+379|timmermans_oudekriek|Timmermans|Oude Kriek|Kriek (Fruta)|El resultado del fruto de los sabores del auténtico lambic maridado a la cereza de antaño de Schaerbeek, da lugar a un sabor que sigue siendo sorprendente por su concepción. 5,5%|0|0|Bélgica|0|11
+380|timmermans_pechelambicus|Timmermans|Pêche Lambicus|Lambic (Fruta)|El poderoso aroma de su fruta reúne inmediatamente el sabor del melocotón. El sabor es afrutado y dulce, dejando la impresión de un punto de amargor que proviene del hueso y la piel del melocotón.﻿ 4%|0|0|Bélgica|0|11
+381|timmermans_pumpkinlambicus|Timmermans|Pumpkin Lambicus|Lambic (Fruta)|Dos tradiciones se reúnen aquí para alcanzar un placer único, el de un sabor original jamás intentado antes. El resultado es sublime, y libera un sabor agradable teñido de una acidez controlada de la lambic confundida con el afrutado seco y modestamente azucarado de la calabaza. 4%|0|0|Bélgica|0|11
+382|timmermans_strawberrylambicus|Timmermans|Strawberry Lambicus|Lambic (Fruta)|Su sabor a fresa confirma la impresión de nariz sin saturación azucarada. Por otro lado, goza también de una auténtica sensación de frescor que recuerda los minúsculos gránulos verdes de la piel de la fresa. Tiene un gusto constante y se extiende rápidamente en toda la boca para terminar su trayecto con un toque más afrutado que azucarado.﻿﻿ 4%|0|0|Bélgica|0|11
+383|waterloo_cuveeimperiale|Waterloo|Cuvée Impériale|Tripel|En la degustación, con el sabor natural de la malta tostada se mezcla la generosidad de su larga dulzura, gracias al aporte de auténticas cañas de azúcar que dejan su suavidad y su gusto a lo largo de todo el proceso. 9,4%|0|0|Bélgica|0|11
+384|waterloo_recolte|Waterloo|Récolte|Witbier (Trigo)|El que la degusta descubre su composición de malta y trigo, que esconde un sinfín de sabores un poco más ásperos y amargos sin llegar a sentirse invadido por ellos. 6%|0|0|Bélgica|0|11
+385|waterloo_recoltehiver|Waterloo|Récolte Hiver|Belgian Blonde Ale|Esta cerveza negra, fresca y de raza es ligera y contiene lúpulos. El azúcar moreno y la malta torrefacta le confieren un envoltorio oscuro y una nota caramelizada muy agradable al final del paladar. 6%|0|0|Bélgica|0|11
+386|waterloo_strongdark|Waterloo|Strong Dark|Belgian Strong Ale|Su aroma a café se alía con un gusto pronunciado, afianzado por un carácter severo aunque disciplinado. Su sabor se desvela progresivamente en la lengua. 8%|0|0|Bélgica|0|11
+387|waterloo_strongkriek|Waterloo|Strong Kriek|Kriek (Fruta)|Nuestro maestro cervecero ha hallado la mezcla perfecta entre una cerveza de alta fermentación y la típica Lambic de cereza: un brebaje único con un gran equilibrio entre su gusto afrutado y su fuerte carácter. 8%|0|0|Bélgica|0|11
+388|waterloo_tripleblond|Waterloo|Triple Blond|Tripel|Esta cerveza triple es sencilla y a la vez compleja: sencilla porque se deja acercar, descubrir fácilmente dejando un toque dulce en la lengua, rápidamente sepultado por una amargura que invade toda la boca; compleja porque honra como se merece a sus materias primas. 8%|0|0|Bélgica|0|11
+389|cusquena_dorada|Cusqueña|Dorada|Lager|Cerveza premium peruana. 5%|0|0|Perú|0|11
+390|cusquena_negra|Cusqueña|Negra|Dark Lager (Negra)|Su dulzor es capaz de convertir cualquier ocasión en un momento íntimo y tentador. Su color oscuro profundo despierta sensaciones que gracias a sus ingredientes hacen de esta edición algo deliciosa. 5,6%|0|0|Perú|0|11
+391|cusquena_trigo|Cusqueña|Trigo|Witbier (Trigo)|Está elaborada con trigo Andrews y selectas cebadas malteadas, que le dan un sabor de otra naturaleza que te refresca, ideal para disfrutar lo mejor de la vida y relajarte naturalmente. 4,9%|0|0|Perú|0|11
+392|cusquena_roja|Cusqueña|Roja|Red Ale|Su sabor intenso te hace disfrutar plenamente al momento de darte un gusto. Selectas cebadas malteadas junto a los finos y amargos lúpulos aromáticos, dan vida a una cerveza que a cada sorbo marca el momento. 5%|0|0|Perú|0|11
+393|argus_shandy|Argus|Shandy|Radler|Cerveza de Lidl con limón. 0,9%|0|0|España|0|11
+394|argus_reserva|Argus|Reserva 1844|Lager|Cerveza de Lidl. 5,6%|0|0|España|0|11
+395|argus|Argus||Lager|Cerveza de Lidl. 5%|0|0|España|0|11
+396|tongerlo_dubbel|Tongerlo|6 Dubbel Bruin|Belgian Dark Ale|6%|0|0|Bélgica|0|11
+397|tongerlo_tripelblond|Tongerlo|8 Tripel Blond|Tripel|8%|0|0|Bélgica|0|11
+398|tongerlo_blond|Tongerlo|Blond|Pale Ale|6%|0|0|Bélgica|0|11
+399|tongerlo_christmas|Tongerlo|Christmas|Pale Ale|7%|0|0|Bélgica|0|11
+400|tongerlo_priortripel|Tongerlo|Prior Tripel 9|Tripel|9%|0|0|Bélgica|0|11
+401|hobgoblin|Hobgoblin||Strong Bitter|5,2%|0|0|Reino Unido|0|11
+402|hobgoblin_gold|Hobgoblin|Gold|Blond Ale|4,5%|0|0|Reino Unido|0|11
+403|hobgoblin_ipa|Hobgoblin|IPA|Pale Ale|5,3%|0|0|Reino Unido|0|11
+404|king_star|King Star||Lager|4,8%|0|0|Reino Unido|0|11
+405|gratis|Gratis||Blond Ale|4,2%|0|0|Reino Unido|0|11
+406|king_goblin|King Goblin||Strong Lager|6,6%|0|0|Reino Unido|0|11
+407|black_wych|Black Wych||Porter (Tostada)|5%|0|0|Reino Unido|0|11
+408|imperial_red|Imperial Red||Strong Bitter|4,7%|0|0|Reino Unido|0|11
+409|drthirsty|Dr Thirsty's||Blond Ale|4,1%|0|0|Reino Unido|0|11
+410|fire_catcher|Fire Catcher||Blond Ale|3,5%|0|0|Reino Unido|0|11
+411|arrowaine|Arrowaine||Stout (Negra)|3,6%|0|0|Reino Unido|0|11
+412|goliath|Goliath||Strong Bitter|4,2%|0|0|Reino Unido|0|11
+413|dryneck|Dryneck||Blond Ale|Cerveza de temporada de enero. 3,6%|0|0|Reino Unido|0|11
+414|dirtytackle|Dirty Tackle||Bitter Ale|Cerveza aromática de temporada. Febrero y marzo. 4%|0|0|Reino Unido|0|11
+415|pinhead|Pinhead||Stout (Negra)|Cerveza de temporada. Marzo. 4,6%|0|0|Reino Unido|0|11
+416|hoppleganger|Hoppleganger||Blond Ale|Cerveza de temporada con aroma de frutas exóticas. Agosto. 4,4%|0|0|Reino Unido|0|11
+417|drophead|Drophead Steam Beer||Red Ale|Cerveza de temporada. Junio. 3,8%|0|0|Reino Unido|0|11
+418|ripsaw|Ripsaw Rye||Red Ale|Cerveza de temporada. Septiembre. 3,7%|0|0|Reino Unido|0|11
+419|dogsbollocks|The Dog's Bollocks||Red Ale|Cerveza de temporada. Noviembre. 5,2%|0|0|Reino Unido|0|11
+420|bahhumbug|Bah Humbug||Strong Lager|Cerveza de temporada. Diciembre. 4,3%|0|0|Reino Unido|0|11
+421|drummers|12 Drummers||Bitter Ale|Cerveza de temporada. Diciembre. 3,5%|0|0|Reino Unido|0|11
+422|pilsnerurquell|Pilsner Urquell||Pilsen|Cerveza dorada, con cabeza de espuma espesa y cremosa. Seca con un ligero matiz amaderado. Buen aroma, suave, con un acabado limpio sin retrogusto. 4,4%|0|0|República Checa|0|11
+423|brewdog_punkipa|Brewdog|Punk IPA|Pale Ale|Una indian pale ale muy aromática e intensa en sabores cítricos, vegetales y con un buen grado de amargor. 5,6%|0|0|Reino Unido|0|11
+424|brewdog_deadponyclub|Brewdog|Dead Pony Club|Pale Ale|Domina el lúpulo con sabor a mango, melocotón, cítricos como el pomelo y un toque ﬂoral. Claro ﬁnal amargo ligeramente seco. 3,8%|0|0|Reino Unido|0|11
+425|brewdog_jetblackheart|Brewdog|Jet Black Heart|Stout (Negra)|Dulce y cremosa gracias a la carga de maltas, la lactosa y la avena utilizada con matices tostados de café y chocolate. Los lúpulos Magnum y Sorachi Ace aportan matices de bayas y cítricos que amplifican el carácter de chocolate de este Leviatán oscuro. 4,7%|0|0|Reino Unido|0|11
+426|brewdog_5amsaint|Brewdog|5AM Saint|Red Ale|En el sabor encontramos fruta cítrica y melocotones con ﬁnal ligeramente seco, especiado y levemente amargo. 5%|0|0|Reino Unido|0|11
+427|brewdog_kingpin|Brewdog|Kingpin|Lager|Las notas cítricas picantes cobran vida a través de la boca y un final amargo asertivo. 4,7%|0|0|Reino Unido|0|11
+428|brewdog_elvisjuice|Brewdog|Elvis Juice|Pale Ale|Su sabor a frutas cítricas destaca por encima de los demás sabores, aunque tiene notas a caramelo. 6,5%|0|0|Reino Unido|0|11
+429|brewdog_jackhammer|Brewdog|Jack Hammer|Pale Ale|Su devastador final amargo perforará directamente tu paladar. Si te gusta el lúpulo y el amargor, sigue adelante. 7,2%|0|0|Reino Unido|0|11
+430|brewdog_cocoapsycho|Brewdog|Cocoa Psycho|Stout (Negra)|10%|0|0|Reino Unido|0|11
+431|brewdog_arcadenation|Brewdog|Arcade Nation|Pale Ale|Esta Black IPA se sitúa en la frontera entre una American IPA y una Stout. Tostada, con notas de chocolate y café que se mezclan con notas cítricas de mango y pino. De cuerpo ligero y sabores y aromas intensos. Su cuerpo ligero la hacen fácil de beber. 5,2%|0|0|Reino Unido|0|11
+432|brewdog_hopfiction|Brewdog|Hop Fiction|Pale Ale|Hop Fiction es una explosiva tropical Pale Ale estilo americano. 5,2%|0|0|Reino Unido|0|11
+433|brewdog_electricindia|Brewdog|Electric India|Otro|Con pimienta y miel de brezo es una combinación entre saison belga e IPA americana, consiguiendo aromas y sabores afrutados y cítricos. 5,2%|0|0|Reino Unido|0|11
+434|brewdog_candykaiser|Brewdog|Candy Kaiser|Altbier|5,2%|0|0|Reino Unido|0|11
+435|brewdog_vagabondpaleale|Brewdog|Vagabond Pale Ale|Pale Ale|Cerveza artesana y sin gluten, elaborada utilizando cebada caramelizada, lúpulo americano, y agua escocesa pura. 4,5%|0|0|Reino Unido|0|11
+436|brewdog_nannystate|Brewdog|Nanny State|Sin Alcohol|0,5%|0|0|Reino Unido|0|11
+437|brewdog_borntodie|Brewdog|Born To Die|Pale Ale|De amargor impresionante, bien secundado por intensos aromas de resinas, cítricos y zumos de frutas. 8,5%|0|0|Reino Unido|0|11
+438|brewdog_paradox|Brewdog|Paradox|Stout (Negra)|La dulzura de la rica vainilla, los toques de canela, el equilibrio de fruta aromática y sabores de jengibre de la malta Arran están infundidos profundamente en la textura de esta Stout suave. 15%|0|0|Reino Unido|0|11
+439|brewdog_doge|Brewdog|Dog E|Stout (Negra)|Con cacao, café y chili. 16,1%|0|0|Reino Unido|0|11
+440|brewdog_albinosquidassassin|Brewdog|Albino Squid Assassin|Pale Ale|Red Rye IPA, con malta de centeno. Las maltas caramelizadas aportan caramelo tostado y toffee ahumado, las maltas torrefactas aportan sabores a cacao y el centeno aporta un punto especiado y los lúpulos aportan el genuino aroma y sabor a citricos y notas resinosas. 7,4%|0|0|Reino Unido|0|11
+441|brewdog_hinterland|Brewdog|Hinterland|Stout (Negra)|9%|0|0|Reino Unido|0|11
+442|brewdog_neonoverlord|Brewdog|Neon Overlord|Otro|Chili y mango con un final de habanero. 7,3%|0|0|Reino Unido|0|11
+443|brewdog_pumpkinking|Brewdog|Pumpkin King|Otro|5,4%|0|0|Reino Unido|0|11
+444|brewdog_selfassemblypope|Brewdog|Self Assembly Pope|Porter (Tostada)|7,4%|0|0|Reino Unido|0|11
+445|cristal|Cristal||Lager|Cerveza Cristal tiene el sabor real de la cerveza y un color dorado claro. Su fresco sabor tiene el amargor justo; que persiste el tiempo suficiente para dar la bienvenida al próximo trago. 4,8%|0|0|Perú|0|11
+446|pilsen_callao|Pilsen Callao||Pilsen|Pilsen Callao tiene el balance perfecto de lúpulos para mantener ese sabor simple, confiable y aromático típico de una cerveza Pilsner.|0|0|Perú|0|11
+447|backus_ice|Backus Ice||Lager|Poco amargor. Proceso de maduración y filtración único, llevando la cerveza al límite del punto de congelamiento. 4,25%|0|0|Perú|0|11
+448|trujillo|Pilsen Trujillo||Pilsen|Sabor balanceado resultado de la combinación de sus ingredientes y su proceso de fermentación completa que garantiza su sabor y calidad confiable. 4,6%|0|0|Perú|0|11
+449|arequipena|Arequipeña||Lager|Color ámbar, amargor medio. 4,6%|0|0|Perú|0|11
+450|sanjuan|San Juan||Lager|Color ámbar, amargor medio. 4,6%|0|0|Perú|0|11
+451|abraxas|Abraxas||Red Ale|Abraxas es la única cerveza ale del portafolio; es decir, de fermentación alta, con mucho más sabor y aroma, que la convierten en una cerveza única e ideal para el consumidor sofisticado. 7%|0|0|Perú|0|11
+452|modelo_negra|Modelo|Negra|Lager|Ofrece un sabor equilibrado y un delicado aroma a malta oscura, caramelo y lúpulo. 5,3%|0|0|México|0|11
+453|modelo_especial|Modelo|Especial|Lager|4,5%|0|0|México|0|11
+454|modelo_ambar|Modelo|Ambar|Lager|Cerveza Premium, color ámbar, consistente y de espuma cremosa. Bien balanceada, aroma a lúpulo y grano de cebada. Un sabor ligeramente acaramelado y tostado. Amargura y sabor alcohólico medio. 4,8%|0|0|México|0|11
+455|modelo_light|Modelo|Light|Lager|2,3%|0|0|México|0|11
+456|pacifico_clara|Pacífico|Clara|Pilsen|Es una cerveza clara, de sabor ligero muy refrescante. 4,5%|0|0|México|0|11
+457|pacifico_light|Pacífico|Light|Lager|3%|0|0|México|0|11
+458|montejo|Montejo||Pilsen|Sabor ligero y excelente aroma. 4,5%|0|0|México|0|11
+459|leon|León||Lager|León es una cerveza tipo Múnich, de color ámbar oscuro, con gran aroma y cuerpo, en la que se mezclan agradable dulzura y suave amargor, acompañados de una blanca espuma. 4,5%|0|0|México|0|11
+460|victoria|Victoria||Lager|4,5%|0|0|México|0|11
+461|estrella|Estrella||Pilsen|Sabor ligero. 4%|0|0|México|0|11
+462|barrilito|Barrilito||Pilsen|Su transparente y brillante color dorado, buen cuerpo, aroma limpio y su refrescante sabor le hacen una excelente cerveza. 3,6%|0|0|México|0|11
+463|tropical_light|Tropical|Light|Lager|3%|0|0|México|0|11
+464|ideal_asdeoros|Ideal|As De Oros|Pilsen|Cerveza con notas dulces. 6,4%|0|0|México|0|11
+465|ideal_azabache|Ideal|Azabache|Bock|Cerveza con notas dulces. 6,7%|0|0|México|0|11
+466|modelo_cheladaespecial|Modelo|Especial Chelada|Otro|Cerveza sazonada con tomate, sal y lima. 3,5%|0|0|México|0|11
+467|modelo_cheladatamarindo|Modelo|Chelada Tamarindo Picante|Otro|Cerveza sazonada con tomate, sal, lima, tamarindo y chipotle. 3,3%|0|0|México|0|11
+468|quilmes_clasica|Quilmes|Clásica|Lager|Cerveza lager argentina, elaborada con ingredientes nacionales. Con equilibrio entre el suave amargor del lúpulo y el sabor del cereal. Color amarillo dorado brillante. 4,9%|0|0|Argentina|0|11
+469|quilmes_bock|Quilmes|Bock|Bock|Cerveza negra-borravino, robusta y persistente. Sabor acaramelado y tostado amargo, debido a la selección de cebadas malteadas con las que se produce. 6,3%|0|0|Argentina|0|11
+470|quilmes_stout|Quilmes|Stout|Stout (Negra)|Cerveza negra, de cuerpo y espuma cremosa, su intenso amargor se compensa con notas de chocolate y café provenientes del golpe de fuego que recibe la malta al momento de ser tostada. 5%|0|0|Argentina|0|11
+471|quilmes_bajocero|Quilmes|Bajo Cero|Lager|Cerveza lager argentina que se elabora mediante un novedoso proceso de filtrado a dos grados bajo cero que da como resultado una cerveza que se destaca por su suavidad y refrescancia. 4,6%|0|0|Argentina|0|11
+472|quilmes_sin|Quilmes|Lieber|Sin Alcohol|Cerveza argentina con el mismo sabor y refrescancia que una Lager, pero sin alcohol. 0,4%|0|0|Argentina|0|11
+473|chimay_doree|Chimay|Dorée|Belgian Blonde Ale|Esta cerveza rubia y ligera desprende un aroma sutil a cáscara de naranja y una espuma tan fina como la nieve. Su sabor apunta a una delicada combinación de lúpulo fresco y cilantro. 4,8%|0|0|Bélgica|0|11
+474|chimay_rouge|Chimay|Rouge|Dubbel (Tostada)|Esta cerveza oscura, de color rojo cobrizo, desprende un aroma ligero y complejo así como matices afrutados y notas a albaricoque. Su espuma es densa y untuosa. La Chimay Roja destaca por su sabor sedoso con un ligero toque de amargor. 7%|0|0|Bélgica|0|11
+475|chimay_tripel|Chimay|Tripel|Tripel|La Chimay Triple, de color dorado, combina el dulzor y amargor en un equilibrio insólito. 8%|0|0|Bélgica|0|11
+476|chimay_bleue|Chimay|Bleue|Belgian Strong Ale|Ante todo, se distingue por su carácter de cerveza fuerte. El aroma de levadura fresca asociado a un ligero tono floral rosáceo es particularmente agradable. Su sabor relativamente seco deja una agradable nota, que la hace especialmente refrescante. 9%|0|0|Bélgica|0|11
+477|chimay_barrique|Chimay|Bleue Vieillie en Barriques|Belgian Strong Ale|La Chimay Azul es una cerveza oscura con un fuerte aroma, el sabor complejo se pone mejor con los años. Sus aromas potentes y complejos se hacen sentir un ramo de especias. En boca deja un sabor relativamente seco con una nota de caramelo. 10,5%|0|0|Bélgica|0|11
+478|veltins_pilsener|Veltins|Pilsener|Pilsen|4,8%|0|0|Alemania|0|11
+479|veltins_sin|Veltins|Alkoholfrei|Sin Alcohol|<0,5%|0|0|Alemania|0|11
+480|veltins_radler|Veltins|Radler|Radler|Cerveza que mezcla Veltins Pilsener con zumo de limón en partes iguales. 2,4%|0|0|Alemania|0|11
+481|veltins_vlemon|Veltins|V+ Lemon|Otro|55% Veltins, 45% limón y un poco de pomelo. 2,7%|0|0|Alemania|0|11
+482|veltins_vcola|Veltins|V+ Cola|Otro|40% Veltins, 60% cola y un poco de limón. 2%|0|0|Alemania|0|11
+483|veltins_vcuruba|Veltins|V+ Curuba|Otro|80% Veltins y 20% de refresco de curuba. 4,8%|0|0|Alemania|0|11
+484|grevensteiner|Grevensteiner|Original|Lager|5,2%|0|0|Alemania|0|11
+485|brahma_chopp|Brahma|Chopp Pilsen|Pilsen|4,8%|0|0|Brasil|0|11
+486|brahma_extralager|Brahma|Extra Lager|Pale Lager|5,5%|0|0|Brasil|0|11
+487|brahma_extraredlager|Brahma|Extra Red Lager|Red Ale|5,2%|0|0|Brasil|0|11
+488|brahma_extraweiss|Brahma|Extra Weiss|Weizenbier (Trigo)|4,9%|0|0|Brasil|0|11
+489|brahma_choppclaro|Brahma|Chopp Claro|Lager|5%|0|0|Brasil|0|11
+490|brahma_choppblack|Brahma|Chopp Black|Stout (Negra)|5%|0|0|Brasil|0|11
+491|brahma_cerocero|Brahma|0,0%|Sin Alcohol|0%|0|0|Brasil|0|11
+492|brahma_malzbier|Brahma|Malzbier|Schwarzbier (Negra)|4%|0|0|Brasil|0|11
+493|clubcolombia_negra|Club Colombia|Negra|Dunkel (Negra)|Tiene un color negro proveniente de maltas tipo caramelo y variedades de malta tostadas o rostizadas, perfecta para acompañar tu postre favorito. 4,7%|0|0|Colombia|0|11
+494|clubcolombia_dorada|Club Colombia|Dorada|Pale Lager|Tiene un color dorado, característico de las cervezas elaboradas con cebada malteada y malta caramelo la cual le da un sabor y brillo propio, siendo así la elección ideal para exaltar cualquier momento. 4,7%|0|0|Colombia|0|11
+495|clubcolombia_roja|Club Colombia|Roja|Red Ale|Tiene un color característico proveniente de la combinación de maltas tipo caramelo y maltas tostadas, perfecta para sentir un sabor dulcemente inolvidable. 4,7%|0|0|Colombia|0|11
+496|clubcolombia_trigo|Club Colombia|Trigo|Weizenbier (Trigo)||0|0|Colombia|0|11
+497|redds_citrus|Redd's|Citrus|Radler|Sabor a fruta, cáscara de limón, manzana verde, dulce-cítrico. 4,5%|0|0|Polonia|0|11
+498|aguila_original|Aguila|Original|Lager|Una cerveza dorada equilibrada y sabrosa con un cuerpo suave y un inconfundible color dorado. 4%|0|0|Colombia|0|11
+499|aguila_light|Aguila|Light|Lager|Sabor suave con poco amargo. 3,4%|0|0|Colombia|0|11
+500|aguila_cero|Aguila|Cero|Sin Alcohol|0,4%|0|0|Colombia|0|11
+501|colapola_original|Cola & Pola|Original|Otro|Mezcla refrescante de amargo y dulce (cerveza y cola) con bajos niveles de alcohol. 2%|0|0|Colombia|0|11
+502|colapola_roja|Cola & Pola|Roja|Otro|La mezcla perfecta de cerveza y cola roja que siempre refresca. 2%|0|0|Colombia|0|11
+503|poker|Poker||Lager|Amargo con un toque de sabor dulce. 4%|0|0|Colombia|0|11
+504|pilsen_col|Pilsen||Pilsen|4%|0|0|Colombia|0|11
+505|costena|Costeña||Lager|Cerveza con un único y característico sabor seco y amargo. 3,9%|0|0|Colombia|0|11
+506|costenita|Costeñita||Lager|4%|0|0|Colombia|0|11
+507|kasteel_blond|Kasteel|Blond|Belgian Blonde Ale|Cerveza rubia clara, fácil de beber y de digerir. 7%|0|0|Bélgica|0|12
+508|kasteel_donker|Kasteel|Donker|Belgian Dark Ale|De color marrón oscuro, rojizo, casi negro, con espuma beis claro escasa. El olor es a frutos secos y el sabor es dulce y empalagoso, con notas a plátano y frutas pasas. 11%|0|0|Bélgica|0|12
+509|kasteel_hoppy|Kasteel|Hoppy|Belgian Blonde Ale|Elaborada con lúpulo belga cuidadosamente seleccionado que le confiere su aroma y su ligero amargor característicos. Una cerveza con cuerpo para los amantes de la cerveza. 6,5%|0|0|Bélgica|0|12
+510|kasteel_rouge|Kasteel|Rouge|Fruit Beer|Kasteel Rouge es una mezcla de Kasteel Donker y licor de cereza. La mezcla de estos dos productos excelentes crea una cerveza suave excepcional, con referencias a la cerveza oscura madre. 8%|0|0|Bélgica|0|12
+511|kasteel_tripel|Kasteel|Tripel|Tripel|Cerveza de alta fermentación de color rubio dorado y espuma blanca y cremosa. 11%|0|0|Bélgica|0|12
+512|bacchus_vlaamsoudbruin|Bacchus|Vlaams Oud Bruin|Old Brown|La típica cerveza tostada flamenca de antaño, la Vlaams Oud Bruin tiene un color marrón rojizo y un claro brillo, con un aroma a frutas y flores y un sabor suavemente ácido que cosquillea la lengua. 4,5%|0|0|Bélgica|0|12
+513|bacchus_kriekenbier|Bacchus|Kriekenbier|Fruit Beer|Con cerezas y frambuesas. 5,8%|0|0|Bélgica|0|12
+514|bacchus_frambozenbier|Bacchus|Frambozenbier|Fruit Beer|Cerveza con frambuesa. 5%|0|0|Bélgica|0|12
+515|brigand|Brigand||Belgian Strong Ale|Una cerveza rubia dorada, clara, brillante y ligeramente opaca con un bello y fino perlado de CO2 y una espuma que se adhiere muy bien al vaso. 9%|0|0|Bélgica|0|12
+516|filou|Filou||Tripel|Filou es una cerveza rubia fuerte,con mucho carácter, pero fácil de beber. Filou está elaborada con lúpulos aromáticos belgas y checos, malta pilsen y fermentada en botella. 8,5%|0|0|Bélgica|0|12
+517|barista_chocolatequad|Barista|Chocolate Quad|Belgian Strong Ale|Sabor a caramelo, cacao, malta tostada y chocolate. 11%|0|0|Bélgica|0|12
+518|cuveeduchateau|Kasteel|Cuvée du chateau|Belgian Strong Ale|Producto de 20 años de artesanía, presenta un color negro oscuro. Ha sido madurada durante 10 años en los sótanos de la cervecería. Ligeramente maderizada, tiene los apuntes de malta tostada y acaramelada, especias y fruta confitada, seguida de una amargura sutil de lúpulos finos ingleses en el regusto. 11%|0|0|Bélgica|0|12
+519|trignac|Trignac|XII|Tripel|De edición limitada la primera cerveza triple envejecida en cubas de coñac. Deguste el sabor completamente redondo, la fina nota del coñac y el suave regusto amargo de esta exclusiva cerveza de degustación. 12%|0|0|Bélgica|0|12
+520|passchendaele|Passchendaele||Belgian Blonde Ale|5,5%|0|0|Bélgica|0|12
+521|slurfke|Slurfke|Bruin|Dubbel (Tostada)|8,5%|0|0|Bélgica|0|12
+522|stlouis_premiumkrieklambic|ST Louis|Premium Kriek Lambic|Lambic (Fruta)|Una delicia ligeramente roja, muy clara y dulce, con el discreto sabor a almendras que proviene de los huesos de las cerezas Oblacinska. Una cerveza macerada con lambic durante 6 meses. 3,2%|0|0|Bélgica|0|12
+523|stlouis_krieklambic|ST Louis|Kriek Lambic|Lambic (Fruta)|Con cereza. 4%|0|0|Bélgica|0|12
+524|stlouis_premiumgueuze|ST Louis|Premium Gueuze|Gueuze|4,5%|0|0|Bélgica|0|12
+525|stlouis_gueze|ST Louis|Gueuze Fond Tradition|Gueuze|Una cerveza extremadamente pura con un pasado que se remonta muchos años atrás. Un aroma discreto con mucha fruta, predominando las manzanas ácidas jóvenes. Un regusto extremadamente seco que obliga a beber inmediatamente el siguiente sorbo. 5%|0|0|Bélgica|0|12
+526|stlouis_premiumpeche|ST Louis|Premium Peche|Lambic (Fruta)|Con melocotón. 2,6%|0|0|Bélgica|0|12
+527|stlouis_premium_framboise|ST Louis|Premium Framboise|Lambic (Fruta)|Una cerveza ligeramente dulce y perfectamente equilibrada, con la acidez de la cerveza Lambic. 25% de frambuesas Williamette con hueso y azúcares naturales. 2,8%|0|0|Bélgica|0|12
+528|keler|Keler||Lager|Color oro viejo, luminoso, con reflejos de roble nuevo. Brillante y de aspecto vivo. Burbujas sutiles, abundantes, que rematan en espuma blanca de larga persistencia. Olor de la malta cebada. Nariz compleja por las notas del lúpulo y la levadura. Elegante y tradicional. Muy sabrosa aunque ligera, fresca y con un carbónico integrado. Recuerdos a cereales tostados. 6,5%|0|0|España|0|12
+529|keler_brown|Keler|Brown|Schwarzbier (Negra)|La malta tostada de la cerveza negra le da un color oscuro característico mientras que su sabor aporta notas torrefactas y aromas a cacao, café y caramelo. 6%|0|0|España|0|12
+530|victoria_esp|Victoria|Málaga|Lager|En nariz presenta un toque de fruta madura y mucho olor a levaduras que le dan carácter. Aromas que recuerdan a los frutos secos como la avellana y la almendra. En boca, muy especiada, con un perfecto equilibrio dulzor-amargor, que le otorga un sabor exquisito. 5,4%|0|0|España|0|12
+531|superbock|Super Bock||Lager|Su aroma fresco, ligeramente malteado y afrutado, su cuerpo medio y sabor equilibrado, su amargor bien estructurado con el dulce de la malta y el final de boca ligero y seco, tan propios del estilo, sitúan la Super Bock en un nivel superior. 5,2%|0|0|Portugal|0|12
+532|superbock_sinnegra|Super Bock|Sin Alcohol Negra|Sin Alcohol|Repleta de sabor y llena de cuerpo, la Super Bock Sin Alcohol Negra garantiza el placer de las mejores cervezas negras, sin ninguna restricción. Posee una espuma generosa y duradera, manteniendo el carácter de una auténtica cerveza negra. <0,45%|0|0|Portugal|0|12
+533|superbock_stout|Super Bock|Stout|Stout (Negra)|Dulce, con un suave amargor, notas de chocolate y café. 5%|0|0|Portugal|0|12
+534|superbock_abadia|Super Bock|Abadía|Bock|Sabor dulce, redondeado por un amargor suave y afrutado. 6,4%|0|0|Portugal|0|12
+535|superbock_green|Super Bock|Green|Radler|La Super Bock Green es una bebida súper refrescante a base de cerveza con sabor a limón. 2%|0|0|Portugal|0|12
+536|superbock_classic|Super Bock|Classic|Pilsen|Sabor intenso, con un buen amargor integrado con la dulzura de las maltas. 5,8%|0|0|Portugal|0|12
+537|superbock_sin|Super Bock|Sin Alcohol|Sin Alcohol|Sabor dulce, con buena acidez, ligeramente amargo. <0,45%|0|0|Portugal|0|12
+538|superbock_cerocero|Super Bock|0,0|Sin Alcohol|Sabor dulce, con buena acidez, ligeramente amargo. 0%|0|0|Portugal|0|12
+539|karpackie_premium|Karpackie|Premium|Pale Lager|5%|0|0|Polonia|0|12
+540|karpackie_pils|Karpackie|Pils|Pilsen|4%|0|0|Polonia|0|12
+541|karpackie_mocne|Karpackie|Mocne|Strong Lager|6,8%|0|0|Polonia|0|12
+542|karpackie_9|Karpackie|9%|Strong Lager|9%|0|0|Polonia|0|12
+543|lomza_export|Lomza|Export|Dortmunder|5,7%|0|0|Polonia|0|12
+544|lomza_radler|Lomza|Radler|Radler|Con limón. 2%|0|0|Polonia|0|12
+545|lomza_nonpasteurized|Lomza|Non-Pasteurized|Paler Lager|6%|0|0|Polonia|0|12
+546|lomza_honey|Lomza|Honey|Otro|Cerveza con miel. 5,7%|0|0|Polonia|0|12
+547|lomza_unfiltered|Lomza|Unfiltered|Pale Lager|5,7%|0|0|Polonia|0|12
+548|lomza_piwo|Lomza|Jasne Pelne|Pale Lager|6,2%|0|0|Polonia|0|12
+549|brok_export|Brok|Export|Pale Lager|5,2%|0|0|Polonia|0|12
+550|brok_sambor|Brok|Sambor|Pilsen|6%|0|0|Polonia|0|12
+551|brok_martin|Brok|Martin|Strong Lager|7,2%|0|0|Polonia|0|12
+552|brok_glutenfree|Brok|Gluten Free|Lager|5,2%|0|0|Polonia|0|12
+553|brok_brownale|Brok|Brown Ale|Brown Ale|5,2%|0|0|Polonia|0|12
+554|brok_ipa|Brok|IPA|Pale Ale|6%|0|0|Polonia|0|12
+555|vanpur_premium|Van Pur|Premium|Pale Lager|5%|0|0|Polonia|0|12
+556|vanpur_supermocne|Van Pur|Super Mocne|Strong Lager|10%|0|0|Polonia|0|12
+557|vanpur_12|Van Pur|12%|Strong Lager|12%|0|0|Polonia|0|12
+558|vanpur_sin|Van Pur|Non-Alcoholic|Sin Alcohol|0,5%|0|0|Polonia|0|12
+559|vanpur_cerocero|Van Pur|Zero|Sin Alcohol|0,0%|0|0|Polonia|0|12
+560|edelmeister_pilsener|Edelmeister|Pilsener|Pale Lager|4,5%|0|0|Polonia|0|12
+561|edelmeister_sin|Edelmeister|Non-Alcoholic|Sin Alcohol|0,5%|0|0|Polonia|0|12
+562|edelmeister_weizenbier|Edelmeister|Weizenbier|Weizenbier (Trigo)|5,7%|0|0|Polonia|0|12
+563|edelmeister_witbier|Edelmeister|Witbier|Witbier (Trigo)|4,5%|0|0|Polonia|0|12
+564|edelmeister_schwarzbier|Edelmeister|Schwarzbier|Schwarzbier (Negra)|4,2%|0|0|Polonia|0|12
+565|edelmeister_radler|Edelmeister|Radler|Radler|2%|0|0|Polonia|0|12
+566|edelmeister_grapefruit|Edelmeister|Radler Grapefruit|Radler|Cerveza con pomelo. 2,5%|0|0|Polonia|0|12
+567|halne_pelne|Halne|Pelne|Pale Lager|6%|0|0|Polonia|0|12
+568|halne_mocne|Halne|Mocne|Strong Lager|7%|0|0|Polonia|0|12
+569|halne_megamocne|Halne|Mega Mocne|Strong Lager|10%|0|0|Polonia|0|12
+570|cortes_tequila|Cortes|Tequila|Con tequila|6%|0|0|Polonia|0|12
+571|cortes_mojito|Cortes|Mojito|Otro|5%|0|0|Polonia|0|12
+572|cortes_extra|Cortes|Extra|Pale Lager|4,5%|0|0|Polonia|0|12
+573|hermannmuller|Hermann Muller||Pale Lager|4%|0|0|Polonia|0|12
+574|roger|Roger||Pale Lager|3%|0|0|Polonia|0|12
+575|slaskie_jasne|Slaskie|Jasne|Pale Lager|5,2%|0|0|Polonia|0|12
+576|slaskie_mocne|Slaskie|Mocne|Strong Lager|7%|0|0|Polonia|0|12
+577|strzelec|Strzelec||Pale Lager|5,2%|0|0|Polonia|0|12
+578|tyskie_gronie|Tyskie|Gronie|Pale Lager|5,5%|0|0|Polonia|0|12
+579|tyskie_gronie14|Tyskie|Gronie 14-dniowe|Pale Lager|5,5%|0|0|Polonia|0|12
+580|tyskie_klasyczne|Tyskie|Klasyczne|Pale Lager|5%|0|0|Polonia|0|12
+581|tyskie_radler|Tyskie|Radler|Radler|2%|0|0|Polonia|0|12
+582|tyskie_niepaster|Tyskie|Niepasteryzowane|Lager|5%|0|0|Polonia|0|12
+583|lech_premium|Lech|Premium|Lager|5,5%|0|0|Polonia|0|12
+584|lech_lite|Lech|Lite|Lager|3,5%|0|0|Polonia|0|12
+585|lech_shandy|Lech|Ice Shandy|Radler|Con limón. 2%|0|0|Polonia|0|12
+586|lech_bloodyorange|Lech|Ice Bloody Orange|Otro|Con naranja. 2%|0|0|Polonia|0|12
+587|lech_mojito|Lech|Ice Mojito|Otro|2%|0|0|Polonia|0|12
+588|lech_free|Lech|Free|Sin Alcohol|0,5%|0|0|Polonia|0|12
+589|lech_pils|Lech|Pils|Pilsen|5,5%|0|0|Polonia|0|12
+590|debowe_mocne|Debowe|Mocne|Strong Lager|7%|0|0|Polonia|0|12
+591|redds_gruszkachili|Redd's|Gruszka i Chili|Fruit Beer|Con pera y chile. 4,5%|0|0|Polonia|0|12
+592|redds_malinagranat|Redd's|Malina i Granat|Fruit Beer|Con frambuesa y granada. 4,5%|0|0|Polonia|0|12
+593|redds_zurawina|Redd's|Zurawina|Fruit Beer|Con arándanos agrios. 4,5%|0|0|Polonia|0|12
+595|gingers|Gingers||Otro|Con sabor a jengibre. 4,1%|0|0|Polonia|0|12
+596|wojak_jasnypelny|Wojak|Jasny Pelny|Pale Lager|5%|0|0|Polonia|0|12
+597|ksiazece_zlotepszeniczne|Ksiazece|Zlote Pszeniczne|Pale Lager|4,9%|0|0|Polonia|0|12
+598|ksiazece_ciemnelagodne|Ksiazece|Ciemme Lagodne|Dunkelweizen (Tostada)|4,1%|0|0|Polonia|0|12
+599|ksiazece_czerwonylager|Ksiazece|Czerwony Lager|Lager|4,9%|0|0|Polonia|0|12
+600|ksiazece_goldenale|Ksiazece|Golden Ale|Blond Ale|5,2%|0|0|Polonia|0|12
+601|ksiazece_jasneryzowe|Ksiazece|Jasne Ryzowe|Pale Lager|4,5%|0|0|Polonia|0|12
+602|duff|Duff||Pale Lager|4,7%|0|0|Alemania|0|12
+603|pawtucketpatriotale|Pawtucket Patriot Ale||Patriot Ale|De verdad, no existe (todavía), besis.|0|0|Quahog|0|12
