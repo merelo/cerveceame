@@ -248,6 +248,11 @@ public class MainActivity extends AppCompatActivity {
         startActivity(intent);
     }
 
+    public void favoritasUsuarios(View v){
+        Intent intent = new Intent(this, FavoritasUsuariosActivity.class);
+        startActivity(intent);
+    }
+
     public void consultaJSON(String url, final String archivo){
 
         final String URL=url+archivo;
@@ -294,6 +299,7 @@ public class MainActivity extends AppCompatActivity {
                             } else {
                                 //Toast.makeText(getApplicationContext(), "Error en servidor", Toast.LENGTH_SHORT).show();
                                 //insertar la cerveza en base de datos de no enviadas
+                                baseDatos.insertarServidor(marca, nombre, Integer.parseInt(estrellas), fecha);
                             }
                         } catch (JSONException e) {
                             e.printStackTrace();

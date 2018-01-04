@@ -1,5 +1,6 @@
 package merelo.com.cerveceame;
 
+import java.lang.reflect.Array;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
@@ -9,6 +10,7 @@ import android.content.Context;
 import android.database.Cursor;
 import android.database.sqlite.SQLiteDatabase;
 import android.database.sqlite.SQLiteOpenHelper;
+import android.util.Log;
 
 public class bbdd extends SQLiteOpenHelper {
 
@@ -249,19 +251,10 @@ public class bbdd extends SQLiteOpenHelper {
                 }
 
                 if(insertar){
-                    /*if(probar==20){
-                        if(Arrays.asList(listaProbar).contains(c.getInt(0))) {
-                            Cerveza cerveza = new Cerveza(c.getInt(0), c.getString(1), c.getString(2),
-                                    c.getString(3), c.getString(4), c.getString(5), c.getInt(6),
-                                    c.getInt(7), c.getString(8), c.getInt(9));
-                            lista_cerveza.add(cerveza);
-                        }
-                    }else {*/
-                        Cerveza cerveza = new Cerveza(c.getInt(0), c.getString(1), c.getString(2),
+                    Cerveza cerveza = new Cerveza(c.getInt(0), c.getString(1), c.getString(2),
                                 c.getString(3), c.getString(4), c.getString(5), c.getInt(6),
                                 c.getInt(7), c.getString(8), c.getInt(9));
-                        lista_cerveza.add(cerveza);
-                    //}
+                    lista_cerveza.add(cerveza);
                 }
                 insertar=false;
             } while (c.moveToNext());
@@ -614,5 +607,47 @@ public class bbdd extends SQLiteOpenHelper {
         }
 
         return cerves;
+    }
+
+    public ArrayList<Cerveza> getCervezasFavoritasComunidad(String [][] datos){
+        ArrayList<Cerveza> cervezas=new ArrayList<Cerveza>();
+        List<String> camposList = new ArrayList<String>();
+        String[] campos;
+
+        SQLiteDatabase db = getReadableDatabase();
+
+        String[] valores_recuperar = {"_id","foto","marca","nombre","tipo","descripcion",
+                "estrellas","nVisitas","pais","defecto"};
+
+        String marca="marca=";
+        String nombre="nombre=";
+
+        String where="marca=? and nombre=?";
+        camposList.add(datos[0][0]);
+        camposList.add(datos[0][1]);
+
+        for(int i=1;i<datos.length;i++){
+            where=where+" or marca=? and nombre=?";
+            camposList.add(datos[i][0]);
+            camposList.add(datos[i][1]);
+        }
+        campos=new String[ camposList.size() ];
+        camposList.toArray(campos);
+
+        Cursor c = db.query("cervezas", valores_recuperar, where, campos, null, null, "marca", null);
+
+
+        if(c.moveToFirst()) {
+           do {
+                Cerveza cerveza = new Cerveza(c.getInt(0), c.getString(1), c.getString(2),
+                        c.getString(3), c.getString(4), c.getString(5), c.getInt(6),
+                        c.getInt(7), c.getString(8), c.getInt(9));
+                cervezas.add(cerveza);
+            } while(c.moveToNext());
+        }
+
+        db.close();
+        c.close();
+        return cervezas;
     }
 }

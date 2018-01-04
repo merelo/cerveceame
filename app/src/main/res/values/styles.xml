@@ -19,4 +19,9 @@
         <item name="colorControlNormal">@color/duskYellow</item>
         <item name="colorControlActivated">@color/lightGrey</item>
     </style>
+
+    <style name="RatingBarComunidad" parent="Theme.AppCompat">
+        <item name="colorControlNormal">#ff773b</item>
+        <item name="colorControlActivated">#ff773b</item>
+    </style>
 </resources>
