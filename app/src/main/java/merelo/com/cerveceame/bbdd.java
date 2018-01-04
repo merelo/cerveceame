@@ -373,7 +373,7 @@ public class bbdd extends SQLiteOpenHelper {
         SQLiteDatabase db = getReadableDatabase();
         String txt="";
         String[] valores_recuperar = {"marca","nombre","tipo","descripcion","estrellas","pais","defecto","version"};
-        Cursor c = db.query("cervezas", valores_recuperar, "estrellas>0",null, null, null, null, null);
+        Cursor c = db.query("cervezas", valores_recuperar, "estrellas>0",null, null, null, "marca", null);
         String descr="";
         String marca="";
         String nombre="";
@@ -426,6 +426,7 @@ public class bbdd extends SQLiteOpenHelper {
                 defecto = Integer.parseInt(linea[6]);
                 version = Integer.parseInt(linea[7]);
 
+                insertarServidor(marca,nombre,estrellas,"");
                 //La anadimos
                 if (version <= versionActual) {
                     if (defecto == 0) {
