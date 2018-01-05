@@ -426,10 +426,10 @@ public class bbdd extends SQLiteOpenHelper {
                 defecto = Integer.parseInt(linea[6]);
                 version = Integer.parseInt(linea[7]);
 
-                insertarServidor(marca,nombre,estrellas,"");
                 //La anadimos
                 if (version <= versionActual) {
                     if (defecto == 0) {
+                        insertarServidor(marca,nombre,estrellas,"");
                         actualizarCervezaPorMarca(marca, nombre, descripcion, estrellas);
                     } else {
                         if(-1==getIdByName(marca,nombre))
@@ -566,6 +566,7 @@ public class bbdd extends SQLiteOpenHelper {
         int i=0;
         if(c.moveToFirst()) {
             estructura=new String[c.getCount()][4];
+            c.moveToFirst();
             do {
                 estructura[i][0]=c.getString(0);
                 estructura[i][1]=c.getString(1);

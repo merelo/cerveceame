@@ -10,7 +10,7 @@ public class ServicioWeb extends Application {
     @Override
     public void onCreate(){
         super.onCreate();
-        mRequestQueue = Volley.newRequestQueue(this);
+        mRequestQueue = Volley.newRequestQueue(getApplicationContext());
         sInstance = this;
     }
     public synchronized static ServicioWeb getsInstance(){

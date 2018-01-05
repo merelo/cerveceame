@@ -189,6 +189,7 @@ public class DetalleActivity extends AppCompatActivity {
                 String idUser = prefs.getString("iduser", null);
                 consultaJSON(idUser,estrellasAct);
             }
+
             estrellasIni=estrellasAct;
 
             String fileName=fotoIni;
@@ -485,7 +486,7 @@ public class DetalleActivity extends AppCompatActivity {
         final String fecha=formatter.format(date);
         String uri = "http://151.80.119.12/cerveceame/server/insertar.php?iduser=" + idUser + "&marca=" + marcaIni +
                 "&nombre=" + nombreIni + "&puntuacion=" + estrellasAct + "&fechausuario="+fecha;
-
+        uri=replaceURL(uri);
         JsonObjectRequest request = new JsonObjectRequest(Request.Method.GET, uri, (String) null,
                 new Response.Listener<JSONObject>() {
                     @Override
@@ -495,10 +496,10 @@ public class DetalleActivity extends AppCompatActivity {
                             String respuesta = response.getString("estado");
 
                             if (respuesta.compareTo("ok")==0) {
-                                //Toast.makeText(getApplicationContext(),"Cerveza añadida",Toast.LENGTH_SHORT).show();
                             }else {
                                 //Toast.makeText(getApplicationContext(), "Error en servidor", Toast.LENGTH_SHORT).show();
                                 //insertar la cerveza en base de datos de no enviadas
+                                baseDatos.insertarServidor(marcaIni, nombreIni, estrellasAct, fecha);
                             }
                         }catch (JSONException e){
                             e.printStackTrace();
@@ -511,7 +512,6 @@ public class DetalleActivity extends AppCompatActivity {
             @Override
             public void onErrorResponse(VolleyError error) {
                 VolleyLog.e("Error: ", error.getMessage());
-                //Toast.makeText(getApplicationContext(),"Error al enviar",Toast.LENGTH_SHORT).show();
                 //insertar la cerveza en base de datos de no enviadas
                 baseDatos.insertarServidor(marcaIni, nombreIni, estrellasAct, fecha);
             }
@@ -520,6 +520,22 @@ public class DetalleActivity extends AppCompatActivity {
         ServicioWeb.getsInstance().getRequestQueue().add(request);
     }
 
+    public String replaceURL(String txt){
+        txt=txt.replace(" ","%20");
+        txt=txt.replace("á","%C3%A1");
+        txt=txt.replace("ä","%C3%A4");
+        txt=txt.replace("é","%C3%A9");
+        txt=txt.replace("è","%C3%A8");
+        txt=txt.replace("ë","%C3%AB");
+        txt=txt.replace("ê","%C3%AA");
+        txt=txt.replace("í","%C3%AD");
+        txt=txt.replace("ó","%C3%B3");
+        txt=txt.replace("ö","%C3%B6");
+        txt=txt.replace("ü","%C3%BC");
+        txt=txt.replace("ñ","%C3%B1");
+        txt=txt.replace("º","%C2%BA");
+        return txt;
+    }
 
 
     /****

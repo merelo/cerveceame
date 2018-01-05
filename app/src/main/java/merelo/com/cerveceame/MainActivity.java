@@ -175,11 +175,12 @@ public class MainActivity extends AppCompatActivity {
             clave=generarClave();
             editor.putString("iduser", clave);
             editor.apply();
+            idUser=clave;
             //comprobar cervezas puntuadas y enviarlas, si hay error, almacenarlas en base de datos no enviados
             String[][] cervezas = baseDatos.getCervezasPuntuadasPredefinidas();
             if (cervezas != null) {
                 for(int i=0;i<cervezas.length;i++) {
-                    envioJSON(idUser, cervezas[i][0], cervezas[i][1], cervezas[i][2], "");
+                    envioJSON(idUser, cervezas[i][0], cervezas[i][1], cervezas[i][2], cervezas[i][3]);
                 }
             }
         }else {
@@ -285,6 +286,8 @@ public class MainActivity extends AppCompatActivity {
     public void envioJSON(String idUser,final String marca,final String nombre,final String estrellas,final String fecha) {
         String uri = "http://151.80.119.12/cerveceame/server/insertar.php?iduser=" + idUser + "&marca=" + marca +
                 "&nombre=" + nombre + "&puntuacion=" + estrellas + "&fechausuario=" + fecha;
+
+        uri=replaceURL(uri);
 
         JsonObjectRequest request = new JsonObjectRequest(Request.Method.GET, uri, (String) null,
                 new Response.Listener<JSONObject>() {
@@ -397,5 +400,22 @@ public class MainActivity extends AppCompatActivity {
             conjunto[i] = (char)elementos[el];
         }
         return new String(conjunto);
+    }
+
+    public String replaceURL(String txt){
+        txt=txt.replace(" ","%20");
+        txt=txt.replace("á","%C3%A1");
+        txt=txt.replace("ä","%C3%A4");
+        txt=txt.replace("é","%C3%A9");
+        txt=txt.replace("è","%C3%A8");
+        txt=txt.replace("ë","%C3%AB");
+        txt=txt.replace("ê","%C3%AA");
+        txt=txt.replace("í","%C3%AD");
+        txt=txt.replace("ó","%C3%B3");
+        txt=txt.replace("ö","%C3%B6");
+        txt=txt.replace("ü","%C3%BC");
+        txt=txt.replace("ñ","%C3%B1");
+        txt=txt.replace("º","%C2%BA");
+        return txt;
     }
 }
