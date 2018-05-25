@@ -174,6 +174,7 @@ public class bbdd extends SQLiteOpenHelper {
         ContentValues cv = new ContentValues();
         cv.put("nVisitas",nVisitas);
         db.update("cervezas", cv, "_id='"+id+"'",null);
+        db.close();
     }
 
     //Elimina una cerveza de la base de datos
@@ -181,8 +182,9 @@ public class bbdd extends SQLiteOpenHelper {
         String[] idd={String.valueOf(id)};
         SQLiteDatabase db =getReadableDatabase();
         db.delete("cervezas", "_id=?", idd);
-        if(!comprobarCervezaProbar(id))
+        if(!comprobarCervezaProbar(id,db))
             db.delete("probar", "_id=?", idd);
+        db.close();
     }
 
     //Devuelve una lista de cervezas según los parámetros que le pasemos
@@ -488,11 +490,18 @@ public class bbdd extends SQLiteOpenHelper {
         return (salida>0);
     }
 
-    public boolean comprobarCervezaProbar(int id){
+    public boolean comprobarCervezaProbar(int id, SQLiteDatabase dbb){
         boolean exists=false;
 
+        SQLiteDatabase db=dbb;
+
+        int dbnull=0;
+
         String[] idd={String.valueOf(id)};
-        SQLiteDatabase db=getReadableDatabase();
+        if(db==null) {
+            db = getReadableDatabase();
+            dbnull=1;
+        }
         String[] campos={"_id"};
         Cursor c=db.query("probar",campos,"_id=?",idd,null,null,null,null);
 
@@ -500,7 +509,8 @@ public class bbdd extends SQLiteOpenHelper {
             exists=true;
 
         c.close();
-        db.close();
+        if(dbnull==1)
+            db.close();
 
         return exists;
     }
@@ -525,13 +535,6 @@ public class bbdd extends SQLiteOpenHelper {
         db.close();
 
         return id;
-    }
-
-    public void chk(){
-        SQLiteDatabase db=getReadableDatabase();
-        String[] campos={"_id"};
-        Cursor c=db.query("probar",campos,null,null,null,null,null,null);
-
     }
 
     /*
@@ -607,6 +610,8 @@ public class bbdd extends SQLiteOpenHelper {
                 i++;
             } while (c.moveToNext());
         }
+        c.close();
+        db.close();
 
         return cerves;
     }

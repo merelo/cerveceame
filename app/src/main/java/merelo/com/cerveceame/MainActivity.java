@@ -228,12 +228,6 @@ public class MainActivity extends AppCompatActivity {
         //aceptar para ir a actualizacion
     }
 
-    //Actividad desactivada en el layout activity_main
-    public void masConsultadas(View v){
-        Intent intent = new Intent(this, MasConsultadasActivity.class);
-        startActivity(intent);
-    }
-
     public void favoritas(View v){
         Intent intent = new Intent(this, FavoritasActivity.class);
         startActivity(intent);
@@ -244,13 +238,8 @@ public class MainActivity extends AppCompatActivity {
         startActivity(intent);
     }
 
-    public void quiensoy(View v){
-        Intent intent = new Intent(this, QuienSoyActivity.class);
-        startActivity(intent);
-    }
-
-    public void favoritasUsuarios(View v){
-        Intent intent = new Intent(this, FavoritasUsuariosActivity.class);
+    public void recomendadas(View v){
+        Intent intent = new Intent(this, Recomendadas.class);
         startActivity(intent);
     }
 

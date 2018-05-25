@@ -44,6 +44,8 @@
             android:screenOrientation="portrait"/>
         <activity android:name=".FavoritasUsuariosActivity"
             android:screenOrientation="portrait"/>
+        <activity android:name=".Recomendadas"
+            android:screenOrientation="portrait"/>
     </application>
 
 </manifest>

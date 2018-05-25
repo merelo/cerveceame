@@ -87,27 +87,7 @@
                 android:id="@+id/textView3"
                 android:textAlignment="center" />
         </LinearLayout>
-        <!-- Parte para añadir la actividad de cervezas más consultadas
-        <LinearLayout
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:orientation="vertical"
-            android:layout_marginLeft="15dp">
-            <ImageButton
-                android:layout_width="50pt"
-                android:layout_height="50pt"
-                android:id="@+id/masConsultadasButton"
-                android:onClick="masConsultadas" />
 
-            <TextView
-                android:layout_width="50pt"
-                android:layout_height="40dp"
-                android:textAppearance="?android:attr/textAppearanceSmall"
-                android:text="Más\nconsultadas"
-                android:id="@+id/textView4"
-                android:textAlignment="center" />
-
-        </LinearLayout>-->
         <LinearLayout
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
@@ -118,14 +98,14 @@
                 android:id="@+id/quienButton"
                 android:layout_width="50pt"
                 android:layout_height="50pt"
-                android:background="@drawable/favoritascomunidad"
-                android:onClick="favoritasUsuarios" />
+                android:background="@drawable/recsys"
+                android:onClick="recomendadas" />
 
             <TextView
                 android:layout_width="50pt"
                 android:layout_height="40dp"
                 android:textAppearance="?android:attr/textAppearanceSmall"
-                android:text="Las favoritas\nde la gente"
+                android:text="Cervezas recomendadas"
                 android:id="@+id/textView5"
                 android:textAlignment="center"  />
         </LinearLayout>

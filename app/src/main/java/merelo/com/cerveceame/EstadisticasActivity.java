@@ -1,12 +1,16 @@
 package merelo.com.cerveceame;
 
 import android.app.ActionBar;
+import android.content.Intent;
 import android.graphics.Color;
 import android.graphics.drawable.ColorDrawable;
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 import android.view.View;
+import android.widget.CheckBox;
+import android.widget.EditText;
 import android.widget.ImageButton;
+import android.widget.Spinner;
 import android.widget.TextView;
 import android.widget.Toast;
 
@@ -95,5 +99,51 @@ public class EstadisticasActivity extends AppCompatActivity {
             ((TextView) findViewById(R.id.cincoestrellas)).setText(i + "");
 
         i++;
+    }
+
+    public void puntuadas(View v){
+        filtrar(1,5);
+    }
+
+    public void puntEstrellas(View v){
+        int estrellas=Integer.parseInt(v.getTag().toString());
+        filtrar(estrellas,estrellas);
+    }
+
+    public void todas(View v){
+        filtrar(0,5);
+    }
+
+    public void filtrar (int minEstrellas, int maxEstrellas){
+        Intent intent = new Intent(getApplicationContext(), ConsultaActivity.class);
+
+        intent.putExtra("maxEstrellasFiltro",maxEstrellas);
+        intent.putExtra("minEstrellasFiltro", minEstrellas);
+
+        //pais
+        intent.putExtra("paisFiltro", "Sel país");
+
+        //tipo
+        intent.putExtra("tipoFiltro", "Sel tipo");
+
+        startActivity(intent);
+    }
+
+    public void mias (View v){
+        Intent intent = new Intent(getApplicationContext(), ConsultaActivity.class);
+
+        intent.putExtra("maxEstrellasFiltro",5);
+        intent.putExtra("minEstrellasFiltro", 0);
+
+        int mias=Integer.parseInt(v.getTag().toString());
+        intent.putExtra("mias",mias);
+
+        //pais
+        intent.putExtra("paisFiltro", "Sel país");
+
+        //tipo
+        intent.putExtra("tipoFiltro", "Sel tipo");
+
+        startActivity(intent);
     }
 }

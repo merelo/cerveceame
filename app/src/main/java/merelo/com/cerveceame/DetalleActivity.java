@@ -66,7 +66,7 @@ public class DetalleActivity extends AppCompatActivity {
     private Bitmap imageBitmap;
     private ImageButton boton;
     private ImageButton botonBack;
-    private int editable; //0 si no lo es
+    private int editable; //1 si lo es
 
     //campos iniciales
     private String marcaIni;
@@ -97,7 +97,7 @@ public class DetalleActivity extends AppCompatActivity {
         descripcionIni=cerveza.getDescripcion();
         paisIni=cerveza.getPais();
         estrellasIni=cerveza.getEstrellas();
-        probar=baseDatos.comprobarCervezaProbar(id);
+        probar=baseDatos.comprobarCervezaProbar(id,null);
         //probar=false;
         int nVisitas=cerveza.getnVisitas();
         nVisitas++;
@@ -151,6 +151,12 @@ public class DetalleActivity extends AppCompatActivity {
         }
     }
 
+    @Override
+    public void onBackPressed() {
+        guardarModificacion();
+        finish();
+    }
+
     public void hacerFoto(){
 
         Intent takePictureIntent = new Intent(MediaStore.ACTION_IMAGE_CAPTURE);
@@ -187,7 +193,9 @@ public class DetalleActivity extends AppCompatActivity {
             if(estrellasIni!=estrellasAct) {
                 SharedPreferences prefs = getSharedPreferences("Preferencias", Context.MODE_PRIVATE);
                 String idUser = prefs.getString("iduser", null);
-                consultaJSON(idUser,estrellasAct);
+
+                if(editable==0)
+                    consultaJSON(idUser,estrellasAct);
             }
 
             estrellasIni=estrellasAct;

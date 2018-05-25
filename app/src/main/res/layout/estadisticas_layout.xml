@@ -23,7 +23,8 @@
                 android:text="0"
                 android:textAlignment="center"
                 android:textSize="150sp"
-                android:textStyle="bold" />
+                android:textStyle="bold"
+                android:onClick="puntuadas"/>
 
             <TextView
                 android:layout_width="match_parent"
@@ -53,7 +54,9 @@
                         android:text="0"
                         android:textAlignment="center"
                         android:textColor="#efdf27"
-                        android:textSize="80sp" />
+                        android:textSize="80sp"
+                        android:tag="5"
+                        android:onClick="puntEstrellas"/>
 
                     <TextView
                         android:layout_width="150dp"
@@ -63,7 +66,9 @@
                         android:textAlignment="center"
                         android:textColor="#efdf27"
                         android:textSize="20sp"
-                        android:textStyle="bold" />
+                        android:textStyle="bold"
+                        android:tag="5"
+                        android:onClick="puntEstrellas"/>
                 </LinearLayout>
 
                 <LinearLayout
@@ -79,7 +84,9 @@
                         android:text="0"
                         android:textAlignment="center"
                         android:textColor="#efb127"
-                        android:textSize="80sp" />
+                        android:textSize="80sp"
+                        android:tag="4"
+                        android:onClick="puntEstrellas"/>
 
                     <TextView
                         android:layout_width="150dp"
@@ -89,7 +96,9 @@
                         android:textAlignment="center"
                         android:textColor="#efb127"
                         android:textSize="20sp"
-                        android:textStyle="bold" />
+                        android:textStyle="bold"
+                        android:tag="4"
+                        android:onClick="puntEstrellas"/>
                 </LinearLayout>
             </LinearLayout>
 
@@ -113,7 +122,9 @@
                         android:text="0"
                         android:textAlignment="center"
                         android:textColor="#ef8327"
-                        android:textSize="40sp" />
+                        android:textSize="40sp"
+                        android:tag="3"
+                        android:onClick="puntEstrellas"/>
 
                     <TextView
                         android:layout_width="100dp"
@@ -123,7 +134,9 @@
                         android:textAlignment="center"
                         android:textColor="#ef8327"
                         android:textSize="15dp"
-                        android:textStyle="bold" />
+                        android:textStyle="bold"
+                        android:tag="3"
+                        android:onClick="puntEstrellas"/>
                 </LinearLayout>
 
                 <LinearLayout
@@ -138,7 +151,9 @@
                         android:text="0"
                         android:textAlignment="center"
                         android:textColor="#ef5527"
-                        android:textSize="40sp" />
+                        android:textSize="40sp"
+                        android:tag="2"
+                        android:onClick="puntEstrellas"/>
 
                     <TextView
                         android:layout_width="100dp"
@@ -148,7 +163,9 @@
                         android:textAlignment="center"
                         android:textColor="#ef5527"
                         android:textSize="15dp"
-                        android:textStyle="bold" />
+                        android:textStyle="bold"
+                        android:tag="2"
+                        android:onClick="puntEstrellas"/>
                 </LinearLayout>
 
                 <LinearLayout
@@ -164,7 +181,9 @@
                         android:text="0"
                         android:textAlignment="center"
                         android:textColor="#ef3927"
-                        android:textSize="40sp" />
+                        android:textSize="40sp"
+                        android:tag="1"
+                        android:onClick="puntEstrellas"/>
 
                     <TextView
                         android:layout_width="100dp"
@@ -174,7 +193,9 @@
                         android:textAlignment="center"
                         android:textColor="#ef3927"
                         android:textSize="15dp"
-                        android:textStyle="bold" />
+                        android:textStyle="bold"
+                        android:tag="1"
+                        android:onClick="puntEstrellas"/>
                 </LinearLayout>
             </LinearLayout>
 
@@ -195,7 +216,8 @@
                     android:textAlignment="center"
                     android:textSize="150sp"
                     android:textColor="#FFFFFF"
-                    android:textStyle="bold" />
+                    android:textStyle="bold"
+                    android:onClick="todas"/>
 
                 <TextView
                     android:layout_width="match_parent"
@@ -204,7 +226,8 @@
                     android:text="Cervezas registradas"
                     android:textAlignment="center"
                     android:textSize="25sp"
-                    android:textColor="#FFFFFF" />
+                    android:textColor="#FFFFFF"
+                    android:onClick="todas" />
 
                 <LinearLayout
                     android:layout_width="wrap_content"
@@ -226,7 +249,9 @@
                             android:text="0"
                             android:textAlignment="center"
                             android:textColor="#FFFFFF"
-                            android:textSize="80sp" />
+                            android:textSize="80sp"
+                            android:tag="0"
+                            android:onClick="mias"/>
 
                         <TextView
                             android:layout_width="150dp"
@@ -236,7 +261,9 @@
                             android:textAlignment="center"
                             android:textColor="#FFFFFF"
                             android:textSize="20sp"
-                            android:textStyle="bold" />
+                            android:textStyle="bold"
+                            android:tag="0"
+                            android:onClick="mias"/>
                     </LinearLayout>
 
                     <LinearLayout
@@ -252,7 +279,9 @@
                             android:text="0"
                             android:textAlignment="center"
                             android:textColor="#FFFFFF"
-                            android:textSize="80sp" />
+                            android:textSize="80sp"
+                            android:tag="1"
+                            android:onClick="mias"/>
 
                         <TextView
                             android:layout_width="150dp"
@@ -262,7 +291,9 @@
                             android:textAlignment="center"
                             android:textColor="#FFFFFF"
                             android:textSize="20sp"
-                            android:textStyle="bold" />
+                            android:textStyle="bold"
+                            android:tag="1"
+                            android:onClick="mias"/>
                     </LinearLayout>
                 </LinearLayout>
             </LinearLayout>
